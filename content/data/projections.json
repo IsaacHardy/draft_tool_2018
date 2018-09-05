@@ -1,0 +1,5285 @@
+{
+  "QBS": [
+    {
+      "Player": "Aaron Rodgers",
+      "Team": "GB",
+      "ATT": 58.9,
+      "CMP": 376.1,
+      "YDS": 309.5,
+      "TDS": 2.1,
+      "INTS": 9.2,
+      "FL": 2.9,
+      "FPTS": 321
+    },
+    {
+      "Player": "Tom Brady",
+      "Team": "NE",
+      "ATT": 27.7,
+      "CMP": 383.8,
+      "YDS": 41,
+      "TDS": 0.9,
+      "INTS": 8.7,
+      "FL": 2.9,
+      "FPTS": 299.5
+    },
+    {
+      "Player": "Russell Wilson",
+      "Team": "SEA",
+      "ATT": 90.4,
+      "CMP": 325.1,
+      "YDS": 503.1,
+      "TDS": 3.2,
+      "INTS": 12.5,
+      "FL": 3.3,
+      "FPTS": 294.8
+    },
+    {
+      "Player": "Deshaun Watson",
+      "Team": "HOU",
+      "ATT": 76.7,
+      "CMP": 309,
+      "YDS": 442,
+      "TDS": 3.5,
+      "INTS": 16,
+      "FL": 3.2,
+      "FPTS": 287.2
+    },
+    {
+      "Player": "Cam Newton",
+      "Team": "CAR",
+      "ATT": 120,
+      "CMP": 299.6,
+      "YDS": 621.4,
+      "TDS": 5,
+      "INTS": 14.5,
+      "FL": 2.7,
+      "FPTS": 286.5
+    },
+    {
+      "Player": "Drew Brees",
+      "Team": "NO",
+      "ATT": 26.7,
+      "CMP": 392,
+      "YDS": 57.2,
+      "TDS": 1.4,
+      "INTS": 12.6,
+      "FL": 2.7,
+      "FPTS": 280.2
+    },
+    {
+      "Player": "Andrew Luck",
+      "Team": "IND",
+      "ATT": 56.6,
+      "CMP": 342.3,
+      "YDS": 275.9,
+      "TDS": 2,
+      "INTS": 14.7,
+      "FL": 3.2,
+      "FPTS": 267.2
+    },
+    {
+      "Player": "Ben Roethlisberger",
+      "Team": "PIT",
+      "ATT": 23.6,
+      "CMP": 367.1,
+      "YDS": 60.3,
+      "TDS": 0.7,
+      "INTS": 14.7,
+      "FL": 2.7,
+      "FPTS": 265.7
+    },
+    {
+      "Player": "Matthew Stafford",
+      "Team": "DET",
+      "ATT": 34.8,
+      "CMP": 372.3,
+      "YDS": 127.7,
+      "TDS": 1,
+      "INTS": 12,
+      "FL": 3.5,
+      "FPTS": 264.1
+    },
+    {
+      "Player": "Alex Smith",
+      "Team": "WAS",
+      "ATT": 58,
+      "CMP": 343.2,
+      "YDS": 259,
+      "TDS": 1.7,
+      "INTS": 9.1,
+      "FL": 3.8,
+      "FPTS": 263.3
+    },
+    {
+      "Player": "Jimmy Garoppolo",
+      "Team": "SF",
+      "ATT": 39.8,
+      "CMP": 362.3,
+      "YDS": 116.1,
+      "TDS": 1.6,
+      "INTS": 12.2,
+      "FL": 2.9,
+      "FPTS": 260.5
+    },
+    {
+      "Player": "Kirk Cousins",
+      "Team": "MIN",
+      "ATT": 49,
+      "CMP": 353.3,
+      "YDS": 158.4,
+      "TDS": 2.5,
+      "INTS": 13.5,
+      "FL": 3.7,
+      "FPTS": 260.2
+    },
+    {
+      "Player": "Philip Rivers",
+      "Team": "LAC",
+      "ATT": 19,
+      "CMP": 355.4,
+      "YDS": 35,
+      "TDS": 0.3,
+      "INTS": 13.7,
+      "FL": 3,
+      "FPTS": 259.9
+    },
+    {
+      "Player": "Matt Ryan",
+      "Team": "ATL",
+      "ATT": 34.4,
+      "CMP": 360,
+      "YDS": 116.2,
+      "TDS": 0.7,
+      "INTS": 12.1,
+      "FL": 2.8,
+      "FPTS": 257.8
+    },
+    {
+      "Player": "Carson Wentz",
+      "Team": "PHI",
+      "ATT": 59.9,
+      "CMP": 310.8,
+      "YDS": 236.4,
+      "TDS": 1.7,
+      "INTS": 10.6,
+      "FL": 3.4,
+      "FPTS": 253.7
+    },
+    {
+      "Player": "Jared Goff",
+      "Team": "LAR",
+      "ATT": 29.5,
+      "CMP": 325.7,
+      "YDS": 78.3,
+      "TDS": 1.1,
+      "INTS": 11.4,
+      "FL": 3.7,
+      "FPTS": 252.6
+    },
+    {
+      "Player": "Patrick Mahomes",
+      "Team": "KC",
+      "ATT": 57.8,
+      "CMP": 340.7,
+      "YDS": 234.5,
+      "TDS": 2,
+      "INTS": 14.5,
+      "FL": 2.8,
+      "FPTS": 250.2
+    },
+    {
+      "Player": "Marcus Mariota",
+      "Team": "TEN",
+      "ATT": 65.4,
+      "CMP": 310.3,
+      "YDS": 349.7,
+      "TDS": 3.1,
+      "INTS": 14,
+      "FL": 3.1,
+      "FPTS": 249.4
+    },
+    {
+      "Player": "Dak Prescott",
+      "Team": "DAL",
+      "ATT": 59.4,
+      "CMP": 310.9,
+      "YDS": 324.1,
+      "TDS": 3.7,
+      "INTS": 12.4,
+      "FL": 3.1,
+      "FPTS": 248.2
+    },
+    {
+      "Player": "Blake Bortles",
+      "Team": "JAC",
+      "ATT": 57.7,
+      "CMP": 311.6,
+      "YDS": 325.4,
+      "TDS": 2.3,
+      "INTS": 13,
+      "FL": 3.4,
+      "FPTS": 243.4
+    },
+    {
+      "Player": "Andy Dalton",
+      "Team": "CIN",
+      "ATT": 40.9,
+      "CMP": 322.4,
+      "YDS": 135.4,
+      "TDS": 1.4,
+      "INTS": 13.4,
+      "FL": 3.5,
+      "FPTS": 228.8
+    },
+    {
+      "Player": "Ryan Tannehill",
+      "Team": "MIA",
+      "ATT": 39.8,
+      "CMP": 347.5,
+      "YDS": 164.2,
+      "TDS": 1.3,
+      "INTS": 14.7,
+      "FL": 3.6,
+      "FPTS": 228.5
+    },
+    {
+      "Player": "Case Keenum",
+      "Team": "DEN",
+      "ATT": 40.4,
+      "CMP": 342.8,
+      "YDS": 147.2,
+      "TDS": 1.1,
+      "INTS": 12.6,
+      "FL": 3.5,
+      "FPTS": 227.5
+    },
+    {
+      "Player": "Derek Carr",
+      "Team": "OAK",
+      "ATT": 27.1,
+      "CMP": 341.1,
+      "YDS": 75.8,
+      "TDS": 0.5,
+      "INTS": 13.2,
+      "FL": 3.5,
+      "FPTS": 226.3
+    },
+    {
+      "Player": "Mitch Trubisky",
+      "Team": "CHI",
+      "ATT": 58.7,
+      "CMP": 316.3,
+      "YDS": 289.4,
+      "TDS": 2.2,
+      "INTS": 13.9,
+      "FL": 4.2,
+      "FPTS": 224.5
+    },
+    {
+      "Player": "Eli Manning",
+      "Team": "NYG",
+      "ATT": 15.3,
+      "CMP": 367.8,
+      "YDS": 29.9,
+      "TDS": 0.7,
+      "INTS": 14.7,
+      "FL": 3.4,
+      "FPTS": 223.9
+    },
+    {
+      "Player": "Jameis Winston",
+      "Team": "TB",
+      "ATT": 33.8,
+      "CMP": 288.7,
+      "YDS": 132.6,
+      "TDS": 1.1,
+      "INTS": 12,
+      "FL": 3.6,
+      "FPTS": 208.1
+    },
+    {
+      "Player": "Tyrod Taylor",
+      "Team": "CLE",
+      "ATT": 64.6,
+      "CMP": 260,
+      "YDS": 342.7,
+      "TDS": 2.9,
+      "INTS": 7.7,
+      "FL": 2.6,
+      "FPTS": 205.3
+    },
+    {
+      "Player": "Joe Flacco",
+      "Team": "BAL",
+      "ATT": 23.5,
+      "CMP": 337,
+      "YDS": 64.7,
+      "TDS": 1.1,
+      "INTS": 13.7,
+      "FL": 2.4,
+      "FPTS": 198.2
+    },
+    {
+      "Player": "Sam Darnold",
+      "Team": "NYJ",
+      "ATT": 36.7,
+      "CMP": 279.4,
+      "YDS": 142.7,
+      "TDS": 1.2,
+      "INTS": 14,
+      "FL": 3.2,
+      "FPTS": 186.4
+    },
+    {
+      "Player": "Sam Bradford",
+      "Team": "ARI",
+      "ATT": 13.4,
+      "CMP": 218.2,
+      "YDS": 36,
+      "TDS": 0.2,
+      "INTS": 7.6,
+      "FL": 1.6,
+      "FPTS": 138.3
+    },
+    {
+      "Player": "Josh Allen",
+      "Team": "BUF",
+      "ATT": 18.6,
+      "CMP": 153.4,
+      "YDS": 105.3,
+      "TDS": 0.9,
+      "INTS": 10.8,
+      "FL": 2.4,
+      "FPTS": 118
+    },
+    {
+      "Player": "Josh Rosen",
+      "Team": "ARI",
+      "ATT": 13.8,
+      "CMP": 147.4,
+      "YDS": 49.3,
+      "TDS": 0.4,
+      "INTS": 6.4,
+      "FL": 1.6,
+      "FPTS": 88.3
+    },
+    {
+      "Player": "Ryan Fitzpatrick",
+      "Team": "TB",
+      "ATT": 8.7,
+      "CMP": 78.4,
+      "YDS": 58.5,
+      "TDS": 0.4,
+      "INTS": 5.2,
+      "FL": 1.3,
+      "FPTS": 78.3
+    },
+    {
+      "Player": "Nathan Peterman",
+      "Team": "BUF",
+      "ATT": 17.7,
+      "CMP": 135.4,
+      "YDS": 51.4,
+      "TDS": 0.4,
+      "INTS": 6.1,
+      "FL": 0.8,
+      "FPTS": 67.2
+    },
+    {
+      "Player": "Baker Mayfield",
+      "Team": "CLE",
+      "ATT": 11.9,
+      "CMP": 77.5,
+      "YDS": 56.2,
+      "TDS": 0.4,
+      "INTS": 3.9,
+      "FL": 1.1,
+      "FPTS": 57.4
+    },
+    {
+      "Player": "Lamar Jackson",
+      "Team": "BAL",
+      "ATT": 15.7,
+      "CMP": 26.4,
+      "YDS": 86.2,
+      "TDS": 0.7,
+      "INTS": 1.1,
+      "FL": 1.3,
+      "FPTS": 27.9
+    },
+    {
+      "Player": "Nick Foles",
+      "Team": "PHI",
+      "ATT": 5.2,
+      "CMP": 36.7,
+      "YDS": 15.2,
+      "TDS": 0.1,
+      "INTS": 1.6,
+      "FL": 0.3,
+      "FPTS": 26.4
+    },
+    {
+      "Player": "Josh McCown",
+      "Team": "NYJ",
+      "ATT": 5.7,
+      "CMP": 41.3,
+      "YDS": 18.1,
+      "TDS": 0.3,
+      "INTS": 2,
+      "FL": 0,
+      "FPTS": 26.1
+    },
+    {
+      "Player": "Jacoby Brissett",
+      "Team": "IND",
+      "ATT": 5.2,
+      "CMP": 19.9,
+      "YDS": 23.9,
+      "TDS": 0.3,
+      "INTS": 1,
+      "FL": 0.1,
+      "FPTS": 14.7
+    },
+    {
+      "Player": "Mike Glennon",
+      "Team": "ARI",
+      "ATT": 1.7,
+      "CMP": 21.4,
+      "YDS": 2.1,
+      "TDS": 0.1,
+      "INTS": 1.2,
+      "FL": 0,
+      "FPTS": 13.5
+    },
+    {
+      "Player": "Brandon Weeden",
+      "Team": "HOU",
+      "ATT": 2.9,
+      "CMP": 23.1,
+      "YDS": 5.9,
+      "TDS": 0,
+      "INTS": 1.1,
+      "FL": 0,
+      "FPTS": 13.1
+    },
+    {
+      "Player": "Blaine Gabbert",
+      "Team": "TEN",
+      "ATT": 2,
+      "CMP": 16.8,
+      "YDS": 8.4,
+      "TDS": 0,
+      "INTS": 1,
+      "FL": 0,
+      "FPTS": 10.4
+    },
+    {
+      "Player": "David Fales",
+      "Team": "MIA",
+      "ATT": 2.7,
+      "CMP": 19.2,
+      "YDS": 17.9,
+      "TDS": 0.1,
+      "INTS": 1,
+      "FL": 0.2,
+      "FPTS": 10.2
+    },
+    {
+      "Player": "Mason Rudolph",
+      "Team": "PIT",
+      "ATT": 1.3,
+      "CMP": 15.3,
+      "YDS": 4.3,
+      "TDS": 0,
+      "INTS": 0.9,
+      "FL": 0,
+      "FPTS": 10
+    },
+    {
+      "Player": "Chase Daniel",
+      "Team": "CHI",
+      "ATT": 1.2,
+      "CMP": 12.9,
+      "YDS": 2.2,
+      "TDS": 0,
+      "INTS": 0.2,
+      "FL": 0,
+      "FPTS": 7.7
+    },
+    {
+      "Player": "Colt McCoy",
+      "Team": "WAS",
+      "ATT": 1.5,
+      "CMP": 10.6,
+      "YDS": 4.3,
+      "TDS": 0,
+      "INTS": 0.5,
+      "FL": 0,
+      "FPTS": 7.1
+    },
+    {
+      "Player": "Brett Hundley",
+      "Team": "SEA",
+      "ATT": 1.7,
+      "CMP": 11.3,
+      "YDS": 9.7,
+      "TDS": 0,
+      "INTS": 0.4,
+      "FL": 0.1,
+      "FPTS": 6.7
+    },
+    {
+      "Player": "DeShone Kizer",
+      "Team": "GB",
+      "ATT": 2.5,
+      "CMP": 8.6,
+      "YDS": 12.9,
+      "TDS": 0.1,
+      "INTS": 0.4,
+      "FL": 0.1,
+      "FPTS": 6.5
+    },
+    {
+      "Player": "Joshua Dobbs",
+      "Team": "PIT",
+      "ATT": 0.5,
+      "CMP": 10.1,
+      "YDS": 6.8,
+      "TDS": 0.1,
+      "INTS": 0.5,
+      "FL": 0.1,
+      "FPTS": 6.4
+    },
+    {
+      "Player": "Jeff Driskel",
+      "Team": "CIN",
+      "ATT": 1,
+      "CMP": 9.9,
+      "YDS": 3.8,
+      "TDS": 0,
+      "INTS": 0.5,
+      "FL": 0,
+      "FPTS": 6.4
+    },
+    {
+      "Player": "Brock Osweiler",
+      "Team": "MIA",
+      "ATT": 0.4,
+      "CMP": 9.1,
+      "YDS": 2.4,
+      "TDS": 0,
+      "INTS": 0.6,
+      "FL": 0,
+      "FPTS": 6.1
+    },
+    {
+      "Player": "Chad Kelly",
+      "Team": "DEN",
+      "ATT": 1.4,
+      "CMP": 8.3,
+      "YDS": 4.1,
+      "TDS": 0,
+      "INTS": 0.6,
+      "FL": 0,
+      "FPTS": 6.1
+    },
+    {
+      "Player": "C.J. Beathard",
+      "Team": "SF",
+      "ATT": 1.4,
+      "CMP": 9.8,
+      "YDS": 6.4,
+      "TDS": 0,
+      "INTS": 0.3,
+      "FL": 0,
+      "FPTS": 5.6
+    },
+    {
+      "Player": "Trevor Siemian",
+      "Team": "MIN",
+      "ATT": 1.3,
+      "CMP": 8.8,
+      "YDS": 7.9,
+      "TDS": 0,
+      "INTS": 0.3,
+      "FL": 0.1,
+      "FPTS": 5.2
+    },
+    {
+      "Player": "Kyle Lauletta",
+      "Team": "NYG",
+      "ATT": 0.5,
+      "CMP": 7.8,
+      "YDS": 4.8,
+      "TDS": 0,
+      "INTS": 0.3,
+      "FL": 0.1,
+      "FPTS": 5
+    },
+    {
+      "Player": "AJ McCarron",
+      "Team": "OAK",
+      "ATT": 1.3,
+      "CMP": 8.8,
+      "YDS": 3.3,
+      "TDS": 0,
+      "INTS": 0.6,
+      "FL": 0,
+      "FPTS": 4.9
+    },
+    {
+      "Player": "Cody Kessler",
+      "Team": "JAC",
+      "ATT": 0.9,
+      "CMP": 7.9,
+      "YDS": 2.6,
+      "TDS": 0,
+      "INTS": 0.4,
+      "FL": 0,
+      "FPTS": 4.9
+    },
+    {
+      "Player": "Matt Cassel",
+      "Team": "DET",
+      "ATT": 1.5,
+      "CMP": 8.2,
+      "YDS": 5.3,
+      "TDS": 0,
+      "INTS": 0.4,
+      "FL": 0,
+      "FPTS": 4.8
+    },
+    {
+      "Player": "Cooper Rush",
+      "Team": "DAL",
+      "ATT": 1.3,
+      "CMP": 6.7,
+      "YDS": 6.5,
+      "TDS": 0,
+      "INTS": 0.3,
+      "FL": 0,
+      "FPTS": 4.7
+    },
+    {
+      "Player": "Sean Mannion",
+      "Team": "LAR",
+      "ATT": 2.4,
+      "CMP": 8.2,
+      "YDS": 7.1,
+      "TDS": 0,
+      "INTS": 0.4,
+      "FL": 0.1,
+      "FPTS": 4.6
+    },
+    {
+      "Player": "Chad Henne",
+      "Team": "KC",
+      "ATT": 1.1,
+      "CMP": 7.8,
+      "YDS": 2.2,
+      "TDS": 0,
+      "INTS": 0.5,
+      "FL": 0,
+      "FPTS": 4.4
+    },
+    {
+      "Player": "Teddy Bridgewater",
+      "Team": "NO",
+      "ATT": 1.1,
+      "CMP": 6.3,
+      "YDS": 7.6,
+      "TDS": 0.1,
+      "INTS": 0.3,
+      "FL": 0.1,
+      "FPTS": 4.4
+    },
+    {
+      "Player": "Brian Hoyer",
+      "Team": "NE",
+      "ATT": 0.7,
+      "CMP": 5.9,
+      "YDS": 6,
+      "TDS": 0,
+      "INTS": 0.3,
+      "FL": 0.1,
+      "FPTS": 4.4
+    },
+    {
+      "Player": "Geno Smith",
+      "Team": "LAC",
+      "ATT": 1,
+      "CMP": 6.2,
+      "YDS": 3,
+      "TDS": 0,
+      "INTS": 0.3,
+      "FL": 0,
+      "FPTS": 3.7
+    },
+    {
+      "Player": "Matt Schaub",
+      "Team": "ATL",
+      "ATT": 0.6,
+      "CMP": 5.7,
+      "YDS": 1.1,
+      "TDS": 0,
+      "INTS": 0.2,
+      "FL": 0,
+      "FPTS": 3.5
+    },
+    {
+      "Player": "Taylor Heinicke",
+      "Team": "CAR",
+      "ATT": 0.2,
+      "CMP": 3.5,
+      "YDS": 2.2,
+      "TDS": 0,
+      "INTS": 0.1,
+      "FL": 0,
+      "FPTS": 2.7
+    },
+    {
+      "Player": "Matt Barkley",
+      "Team": "CIN",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 1,
+      "TDS": 0,
+      "INTS": 0.3,
+      "FL": 0,
+      "FPTS": 2.5
+    },
+    {
+      "Player": "Robert Griffin",
+      "Team": "BAL",
+      "ATT": 0.5,
+      "CMP": 0.5,
+      "YDS": 6.3,
+      "TDS": 0,
+      "INTS": 0.2,
+      "FL": 0,
+      "FPTS": 2.2
+    },
+    {
+      "Player": "Ryan Griffin",
+      "Team": "HOU",
+      "ATT": 0,
+      "CMP": 1.7,
+      "YDS": 1,
+      "TDS": 0,
+      "INTS": 0.1,
+      "FL": 0,
+      "FPTS": 1.9
+    },
+    {
+      "Player": "Austin Davis",
+      "Team": "SEA",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0.1
+    },
+    {
+      "Player": "Tanner Lee",
+      "Team": "JAC",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0.1
+    },
+    {
+      "Player": "Nate Sudfeld",
+      "Team": "PHI",
+      "ATT": 0,
+      "CMP": 0.1,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Joe Webb",
+      "Team": "HOU",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Alex Tanney",
+      "Team": "NYG",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Cardale Jones",
+      "Team": "LAC",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Kevin Hogan",
+      "Team": "DEN",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Drew Stanton",
+      "Team": "CLE",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Taysom Hill",
+      "Team": "NO",
+      "ATT": 0,
+      "CMP": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "INTS": 0,
+      "FL": 0,
+      "FPTS": 0
+    }
+  ],
+  "RBS": [
+    {
+      "Player": "Todd Gurley",
+      "Team": "LAR",
+      "ATT": 289.2,
+      "YDS": 636.4,
+      "TDS": 3.7,
+      "REC": 66,
+      "FL": 2.7,
+      "FPTS": 343
+    },
+    {
+      "Player": "Le'Veon Bell",
+      "Team": "PIT",
+      "ATT": 290.8,
+      "YDS": 650,
+      "TDS": 2.9,
+      "REC": 80.5,
+      "FL": 2.3,
+      "FPTS": 339.8
+    },
+    {
+      "Player": "David Johnson",
+      "Team": "ARI",
+      "ATT": 280.5,
+      "YDS": 745.5,
+      "TDS": 3.2,
+      "REC": 75.3,
+      "FL": 3.3,
+      "FPTS": 322.8
+    },
+    {
+      "Player": "Ezekiel Elliott",
+      "Team": "DAL",
+      "ATT": 316.4,
+      "YDS": 378.7,
+      "TDS": 1.9,
+      "REC": 42.7,
+      "FL": 1.8,
+      "FPTS": 294.3
+    },
+    {
+      "Player": "Alvin Kamara",
+      "Team": "NO",
+      "ATT": 165.4,
+      "YDS": 706.6,
+      "TDS": 4.1,
+      "REC": 73.8,
+      "FL": 1,
+      "FPTS": 285.2
+    },
+    {
+      "Player": "Melvin Gordon",
+      "Team": "LAC",
+      "ATT": 276.9,
+      "YDS": 471.6,
+      "TDS": 2.5,
+      "REC": 56.1,
+      "FL": 1.4,
+      "FPTS": 270.9
+    },
+    {
+      "Player": "Kareem Hunt",
+      "Team": "KC",
+      "ATT": 246.7,
+      "YDS": 414.3,
+      "TDS": 2.2,
+      "REC": 52.1,
+      "FL": 1.7,
+      "FPTS": 264
+    },
+    {
+      "Player": "Saquon Barkley",
+      "Team": "NYG",
+      "ATT": 260.2,
+      "YDS": 424,
+      "TDS": 2.1,
+      "REC": 55.8,
+      "FL": 1.5,
+      "FPTS": 263.5
+    },
+    {
+      "Player": "Christian McCaffrey",
+      "Team": "CAR",
+      "ATT": 180.6,
+      "YDS": 672.2,
+      "TDS": 4.2,
+      "REC": 74.7,
+      "FL": 1.1,
+      "FPTS": 259
+    },
+    {
+      "Player": "Leonard Fournette",
+      "Team": "JAC",
+      "ATT": 291.4,
+      "YDS": 345.6,
+      "TDS": 1.4,
+      "REC": 41.8,
+      "FL": 1.4,
+      "FPTS": 258.7
+    },
+    {
+      "Player": "Dalvin Cook",
+      "Team": "MIN",
+      "ATT": 257.4,
+      "YDS": 353.9,
+      "TDS": 1.8,
+      "REC": 43.4,
+      "FL": 1.9,
+      "FPTS": 240.1
+    },
+    {
+      "Player": "Devonta Freeman",
+      "Team": "ATL",
+      "ATT": 221,
+      "YDS": 382.4,
+      "TDS": 1.9,
+      "REC": 44.9,
+      "FL": 1.6,
+      "FPTS": 235.4
+    },
+    {
+      "Player": "LeSean McCoy",
+      "Team": "BUF",
+      "ATT": 215.3,
+      "YDS": 359,
+      "TDS": 1.7,
+      "REC": 43.8,
+      "FL": 1.4,
+      "FPTS": 211.2
+    },
+    {
+      "Player": "Joe Mixon",
+      "Team": "CIN",
+      "ATT": 230.3,
+      "YDS": 302.5,
+      "TDS": 1.1,
+      "REC": 37.7,
+      "FL": 2,
+      "FPTS": 201.8
+    },
+    {
+      "Player": "Jordan Howard",
+      "Team": "CHI",
+      "ATT": 250.3,
+      "YDS": 195.3,
+      "TDS": 0.7,
+      "REC": 27.1,
+      "FL": 1.3,
+      "FPTS": 201.7
+    },
+    {
+      "Player": "Alex Collins",
+      "Team": "BAL",
+      "ATT": 231.8,
+      "YDS": 228.5,
+      "TDS": 0.9,
+      "REC": 29.1,
+      "FL": 2.5,
+      "FPTS": 192.2
+    },
+    {
+      "Player": "Kenyan Drake",
+      "Team": "MIA",
+      "ATT": 185.7,
+      "YDS": 320.6,
+      "TDS": 1.2,
+      "REC": 41.4,
+      "FL": 1.7,
+      "FPTS": 191.3
+    },
+    {
+      "Player": "Lamar Miller",
+      "Team": "HOU",
+      "ATT": 219.6,
+      "YDS": 287.7,
+      "TDS": 1.7,
+      "REC": 36.3,
+      "FL": 1.2,
+      "FPTS": 187.5
+    },
+    {
+      "Player": "Royce Freeman",
+      "Team": "DEN",
+      "ATT": 204,
+      "YDS": 263.2,
+      "TDS": 1.1,
+      "REC": 32.4,
+      "FL": 1.6,
+      "FPTS": 181.6
+    },
+    {
+      "Player": "Derrick Henry",
+      "Team": "TEN",
+      "ATT": 216.6,
+      "YDS": 196.7,
+      "TDS": 1,
+      "REC": 20.4,
+      "FL": 1.2,
+      "FPTS": 181.2
+    },
+    {
+      "Player": "Jay Ajayi",
+      "Team": "PHI",
+      "ATT": 222.3,
+      "YDS": 196.8,
+      "TDS": 0.9,
+      "REC": 26.1,
+      "FL": 2.2,
+      "FPTS": 177
+    },
+    {
+      "Player": "Tevin Coleman",
+      "Team": "ATL",
+      "ATT": 148.7,
+      "YDS": 305.3,
+      "TDS": 2,
+      "REC": 33.1,
+      "FL": 0.9,
+      "FPTS": 163.9
+    },
+    {
+      "Player": "Rex Burkhead",
+      "Team": "NE",
+      "ATT": 130.1,
+      "YDS": 301,
+      "TDS": 2,
+      "REC": 35.1,
+      "FL": 0.8,
+      "FPTS": 163.3
+    },
+    {
+      "Player": "Dion Lewis",
+      "Team": "TEN",
+      "ATT": 131.3,
+      "YDS": 307.1,
+      "TDS": 1.8,
+      "REC": 41.5,
+      "FL": 1.4,
+      "FPTS": 162.7
+    },
+    {
+      "Player": "Duke Johnson",
+      "Team": "CLE",
+      "ATT": 67,
+      "YDS": 517.8,
+      "TDS": 2.1,
+      "REC": 58,
+      "FL": 1.3,
+      "FPTS": 162.3
+    },
+    {
+      "Player": "Mark Ingram",
+      "Team": "NO",
+      "ATT": 149.5,
+      "YDS": 240.1,
+      "TDS": 1.1,
+      "REC": 33.3,
+      "FL": 1.5,
+      "FPTS": 160.5
+    },
+    {
+      "Player": "Chris Thompson",
+      "Team": "WAS",
+      "ATT": 64.8,
+      "YDS": 506.4,
+      "TDS": 3.1,
+      "REC": 55.6,
+      "FL": 1.7,
+      "FPTS": 159.9
+    },
+    {
+      "Player": "Marshawn Lynch",
+      "Team": "OAK",
+      "ATT": 185,
+      "YDS": 165.9,
+      "TDS": 0.5,
+      "REC": 22.5,
+      "FL": 1.1,
+      "FPTS": 154.6
+    },
+    {
+      "Player": "Carlos Hyde",
+      "Team": "CLE",
+      "ATT": 178,
+      "YDS": 198.3,
+      "TDS": 0.7,
+      "REC": 28.1,
+      "FL": 1.8,
+      "FPTS": 153.9
+    },
+    {
+      "Player": "Marlon Mack",
+      "Team": "IND",
+      "ATT": 153,
+      "YDS": 278.2,
+      "TDS": 1.6,
+      "REC": 29.3,
+      "FL": 1,
+      "FPTS": 152.5
+    },
+    {
+      "Player": "Kerryon Johnson",
+      "Team": "DET",
+      "ATT": 160.2,
+      "YDS": 243.4,
+      "TDS": 1,
+      "REC": 32.1,
+      "FL": 1.3,
+      "FPTS": 151.9
+    },
+    {
+      "Player": "Jamaal Williams",
+      "Team": "GB",
+      "ATT": 148.4,
+      "YDS": 242.8,
+      "TDS": 1.4,
+      "REC": 25.9,
+      "FL": 0.9,
+      "FPTS": 149.4
+    },
+    {
+      "Player": "Matt Breida",
+      "Team": "SF",
+      "ATT": 126.4,
+      "YDS": 273.6,
+      "TDS": 1.4,
+      "REC": 33.8,
+      "FL": 1.1,
+      "FPTS": 149.4
+    },
+    {
+      "Player": "Isaiah Crowell",
+      "Team": "NYJ",
+      "ATT": 183.1,
+      "YDS": 204.2,
+      "TDS": 0.7,
+      "REC": 29.8,
+      "FL": 1,
+      "FPTS": 149.1
+    },
+    {
+      "Player": "James White",
+      "Team": "NE",
+      "ATT": 61.8,
+      "YDS": 415.6,
+      "TDS": 3,
+      "REC": 52,
+      "FL": 0.6,
+      "FPTS": 148.3
+    },
+    {
+      "Player": "Tarik Cohen",
+      "Team": "CHI",
+      "ATT": 83,
+      "YDS": 402.5,
+      "TDS": 1.6,
+      "REC": 55.3,
+      "FL": 1.3,
+      "FPTS": 148.3
+    },
+    {
+      "Player": "Peyton Barber",
+      "Team": "TB",
+      "ATT": 176.8,
+      "YDS": 173.3,
+      "TDS": 0.6,
+      "REC": 21.5,
+      "FL": 1.2,
+      "FPTS": 146.3
+    },
+    {
+      "Player": "Chris Carson",
+      "Team": "SEA",
+      "ATT": 143.1,
+      "YDS": 223.5,
+      "TDS": 1.4,
+      "REC": 27,
+      "FL": 1,
+      "FPTS": 141.9
+    },
+    {
+      "Player": "Bilal Powell",
+      "Team": "NYJ",
+      "ATT": 133.4,
+      "YDS": 223.4,
+      "TDS": 0.8,
+      "REC": 31.3,
+      "FL": 1.1,
+      "FPTS": 137.7
+    },
+    {
+      "Player": "Giovani Bernard",
+      "Team": "CIN",
+      "ATT": 92.1,
+      "YDS": 343.8,
+      "TDS": 1.5,
+      "REC": 39,
+      "FL": 0.9,
+      "FPTS": 135.9
+    },
+    {
+      "Player": "Alfred Morris",
+      "Team": "SF",
+      "ATT": 156.1,
+      "YDS": 131.8,
+      "TDS": 0.5,
+      "REC": 17.6,
+      "FL": 1.1,
+      "FPTS": 133.9
+    },
+    {
+      "Player": "Theo Riddick",
+      "Team": "DET",
+      "ATT": 61.2,
+      "YDS": 381.2,
+      "TDS": 2,
+      "REC": 49.3,
+      "FL": 0.7,
+      "FPTS": 128.9
+    },
+    {
+      "Player": "Ty Montgomery",
+      "Team": "GB",
+      "ATT": 72.8,
+      "YDS": 290.8,
+      "TDS": 1.5,
+      "REC": 40.3,
+      "FL": 0.7,
+      "FPTS": 124.5
+    },
+    {
+      "Player": "Devontae Booker",
+      "Team": "DEN",
+      "ATT": 126,
+      "YDS": 256.3,
+      "TDS": 0.9,
+      "REC": 30.9,
+      "FL": 1.3,
+      "FPTS": 123.4
+    },
+    {
+      "Player": "Adrian Peterson",
+      "Team": "WAS",
+      "ATT": 170.6,
+      "YDS": 120.3,
+      "TDS": 0.5,
+      "REC": 15,
+      "FL": 4.1,
+      "FPTS": 120.1
+    },
+    {
+      "Player": "Rashaad Penny",
+      "Team": "SEA",
+      "ATT": 137.8,
+      "YDS": 180.7,
+      "TDS": 0.8,
+      "REC": 24.3,
+      "FL": 0.8,
+      "FPTS": 118.5
+    },
+    {
+      "Player": "Sony Michel",
+      "Team": "NE",
+      "ATT": 110,
+      "YDS": 184.8,
+      "TDS": 0.7,
+      "REC": 24.6,
+      "FL": 0.8,
+      "FPTS": 112.7
+    },
+    {
+      "Player": "Javorius Allen",
+      "Team": "BAL",
+      "ATT": 96.9,
+      "YDS": 211,
+      "TDS": 1,
+      "REC": 32.7,
+      "FL": 0.7,
+      "FPTS": 111.6
+    },
+    {
+      "Player": "Austin Ekeler",
+      "Team": "LAC",
+      "ATT": 88.5,
+      "YDS": 250.8,
+      "TDS": 1.6,
+      "REC": 29.7,
+      "FL": 2.1,
+      "FPTS": 107.4
+    },
+    {
+      "Player": "Corey Clement",
+      "Team": "PHI",
+      "ATT": 90.1,
+      "YDS": 225.8,
+      "TDS": 1.4,
+      "REC": 23,
+      "FL": 0.7,
+      "FPTS": 107.1
+    },
+    {
+      "Player": "C.J. Anderson",
+      "Team": "CAR",
+      "ATT": 124.6,
+      "YDS": 116.6,
+      "TDS": 0.5,
+      "REC": 13.6,
+      "FL": 0.9,
+      "FPTS": 104
+    },
+    {
+      "Player": "Frank Gore",
+      "Team": "MIA",
+      "ATT": 114,
+      "YDS": 172.9,
+      "TDS": 0.8,
+      "REC": 24.5,
+      "FL": 0.8,
+      "FPTS": 102.7
+    },
+    {
+      "Player": "Ronald Jones II",
+      "Team": "TB",
+      "ATT": 130.1,
+      "YDS": 145.2,
+      "TDS": 0.5,
+      "REC": 18.5,
+      "FL": 1.1,
+      "FPTS": 101.9
+    },
+    {
+      "Player": "Latavius Murray",
+      "Team": "MIN",
+      "ATT": 122.1,
+      "YDS": 126.3,
+      "TDS": 0.5,
+      "REC": 18.4,
+      "FL": 0.8,
+      "FPTS": 101.4
+    },
+    {
+      "Player": "T.J. Yeldon",
+      "Team": "JAC",
+      "ATT": 70.2,
+      "YDS": 232.6,
+      "TDS": 0.8,
+      "REC": 27.3,
+      "FL": 0.9,
+      "FPTS": 97
+    },
+    {
+      "Player": "Doug Martin",
+      "Team": "OAK",
+      "ATT": 123.3,
+      "YDS": 129.2,
+      "TDS": 0.4,
+      "REC": 15.9,
+      "FL": 1.1,
+      "FPTS": 96.1
+    },
+    {
+      "Player": "Chris Ivory",
+      "Team": "BUF",
+      "ATT": 116.4,
+      "YDS": 141.9,
+      "TDS": 0.7,
+      "REC": 20.1,
+      "FL": 1.3,
+      "FPTS": 95.8
+    },
+    {
+      "Player": "Nyheim Hines",
+      "Team": "IND",
+      "ATT": 70.5,
+      "YDS": 209,
+      "TDS": 1.1,
+      "REC": 26.6,
+      "FL": 0.7,
+      "FPTS": 91.4
+    },
+    {
+      "Player": "Darren Sproles",
+      "Team": "PHI",
+      "ATT": 48.9,
+      "YDS": 251.7,
+      "TDS": 1.2,
+      "REC": 30.4,
+      "FL": 1.2,
+      "FPTS": 88.9
+    },
+    {
+      "Player": "Aaron Jones",
+      "Team": "GB",
+      "ATT": 93.7,
+      "YDS": 96,
+      "TDS": 0.4,
+      "REC": 14,
+      "FL": 0.6,
+      "FPTS": 85.9
+    },
+    {
+      "Player": "Jordan Wilkins",
+      "Team": "IND",
+      "ATT": 103.8,
+      "YDS": 125.7,
+      "TDS": 0.6,
+      "REC": 16.8,
+      "FL": 0.8,
+      "FPTS": 84
+    },
+    {
+      "Player": "Nick Chubb",
+      "Team": "CLE",
+      "ATT": 106.2,
+      "YDS": 100,
+      "TDS": 0.3,
+      "REC": 13.9,
+      "FL": 0.9,
+      "FPTS": 83.2
+    },
+    {
+      "Player": "Wayne Gallman",
+      "Team": "NYG",
+      "ATT": 60.2,
+      "YDS": 170.5,
+      "TDS": 0.7,
+      "REC": 24.7,
+      "FL": 1,
+      "FPTS": 77
+    },
+    {
+      "Player": "Kenneth Dixon",
+      "Team": "BAL",
+      "ATT": 51.8,
+      "YDS": 147.8,
+      "TDS": 0.7,
+      "REC": 19.9,
+      "FL": 0.7,
+      "FPTS": 76.1
+    },
+    {
+      "Player": "LeGarrette Blount",
+      "Team": "DET",
+      "ATT": 107,
+      "YDS": 43.4,
+      "TDS": 0.2,
+      "REC": 6.7,
+      "FL": 0.9,
+      "FPTS": 75.5
+    },
+    {
+      "Player": "Spencer Ware",
+      "Team": "KC",
+      "ATT": 79.8,
+      "YDS": 123.3,
+      "TDS": 0.5,
+      "REC": 14.6,
+      "FL": 1.1,
+      "FPTS": 73.3
+    },
+    {
+      "Player": "D'Onta Foreman",
+      "Team": "HOU",
+      "ATT": 95.8,
+      "YDS": 93.7,
+      "TDS": 0.5,
+      "REC": 11.1,
+      "FL": 1.3,
+      "FPTS": 71.1
+    },
+    {
+      "Player": "Kyle Juszczyk",
+      "Team": "SF",
+      "ATT": 11.4,
+      "YDS": 287.1,
+      "TDS": 1.2,
+      "REC": 32.1,
+      "FL": 1.6,
+      "FPTS": 70.3
+    },
+    {
+      "Player": "Chase Edmonds",
+      "Team": "ARI",
+      "ATT": 63.2,
+      "YDS": 143.7,
+      "TDS": 0.5,
+      "REC": 20,
+      "FL": 0.7,
+      "FPTS": 68.6
+    },
+    {
+      "Player": "Rod Smith",
+      "Team": "DAL",
+      "ATT": 56.8,
+      "YDS": 132.2,
+      "TDS": 0.7,
+      "REC": 13.5,
+      "FL": 0.7,
+      "FPTS": 66.6
+    },
+    {
+      "Player": "Jalen Richard",
+      "Team": "OAK",
+      "ATT": 41.6,
+      "YDS": 172.3,
+      "TDS": 0.7,
+      "REC": 22.1,
+      "FL": 1.2,
+      "FPTS": 65.4
+    },
+    {
+      "Player": "C.J. Prosise",
+      "Team": "SEA",
+      "ATT": 38.4,
+      "YDS": 197.2,
+      "TDS": 0.6,
+      "REC": 19.2,
+      "FL": 0.5,
+      "FPTS": 60
+    },
+    {
+      "Player": "Corey Grant",
+      "Team": "JAC",
+      "ATT": 59.6,
+      "YDS": 101.4,
+      "TDS": 0.5,
+      "REC": 13.1,
+      "FL": 0.8,
+      "FPTS": 59.9
+    },
+    {
+      "Player": "Tavon Austin",
+      "Team": "DAL",
+      "ATT": 24.2,
+      "YDS": 128.5,
+      "TDS": 0.9,
+      "REC": 17.2,
+      "FL": 0.2,
+      "FPTS": 55
+    },
+    {
+      "Player": "Alfred Blue",
+      "Team": "HOU",
+      "ATT": 51.5,
+      "YDS": 91.5,
+      "TDS": 0.4,
+      "REC": 9.8,
+      "FL": 0.6,
+      "FPTS": 54.5
+    },
+    {
+      "Player": "Jeremy Hill",
+      "Team": "NE",
+      "ATT": 66.4,
+      "YDS": 51,
+      "TDS": 0.2,
+      "REC": 6,
+      "FL": 0.8,
+      "FPTS": 53.1
+    },
+    {
+      "Player": "Phillip Lindsay",
+      "Team": "DEN",
+      "ATT": 45.5,
+      "YDS": 102,
+      "TDS": 0.4,
+      "REC": 14.1,
+      "FL": 0.9,
+      "FPTS": 48.1
+    },
+    {
+      "Player": "Jonathan Stewart",
+      "Team": "NYG",
+      "ATT": 61,
+      "YDS": 47.7,
+      "TDS": 0.2,
+      "REC": 7.5,
+      "FL": 0.7,
+      "FPTS": 47.5
+    },
+    {
+      "Player": "James Conner",
+      "Team": "PIT",
+      "ATT": 65.8,
+      "YDS": 48,
+      "TDS": 0.2,
+      "REC": 7.5,
+      "FL": 0.4,
+      "FPTS": 47.4
+    },
+    {
+      "Player": "Mike Gillislee",
+      "Team": "NO",
+      "ATT": 41.5,
+      "YDS": 52.7,
+      "TDS": 0.3,
+      "REC": 7.1,
+      "FL": 0.6,
+      "FPTS": 46.3
+    },
+    {
+      "Player": "Robert Kelley",
+      "Team": "WAS",
+      "ATT": 67.4,
+      "YDS": 54.5,
+      "TDS": 0.2,
+      "REC": 8.2,
+      "FL": 0.7,
+      "FPTS": 45.1
+    },
+    {
+      "Player": "Samaje Perine",
+      "Team": "WAS",
+      "ATT": 53.3,
+      "YDS": 66.8,
+      "TDS": 0.2,
+      "REC": 8.8,
+      "FL": 0.3,
+      "FPTS": 43.3
+    },
+    {
+      "Player": "John Kelly",
+      "Team": "LAR",
+      "ATT": 49.2,
+      "YDS": 59.9,
+      "TDS": 0.2,
+      "REC": 7.6,
+      "FL": 0.2,
+      "FPTS": 39.8
+    },
+    {
+      "Player": "Kalen Ballage",
+      "Team": "MIA",
+      "ATT": 37.9,
+      "YDS": 72.5,
+      "TDS": 0.3,
+      "REC": 9.6,
+      "FL": 0.7,
+      "FPTS": 38.3
+    },
+    {
+      "Player": "Jacquizz Rodgers",
+      "Team": "TB",
+      "ATT": 33.3,
+      "YDS": 78.1,
+      "TDS": 0.2,
+      "REC": 11.8,
+      "FL": 0.4,
+      "FPTS": 38
+    },
+    {
+      "Player": "Elijah McGuire",
+      "Team": "NYJ",
+      "ATT": 31.7,
+      "YDS": 89.2,
+      "TDS": 0.4,
+      "REC": 9.8,
+      "FL": 0.6,
+      "FPTS": 37.2
+    },
+    {
+      "Player": "DeAndre Washington",
+      "Team": "OAK",
+      "ATT": 21.5,
+      "YDS": 79.2,
+      "TDS": 0.3,
+      "REC": 11.8,
+      "FL": 0.2,
+      "FPTS": 35.6
+    },
+    {
+      "Player": "Marcus Murphy",
+      "Team": "BUF",
+      "ATT": 38.1,
+      "YDS": 58.9,
+      "TDS": 0.2,
+      "REC": 9.2,
+      "FL": 0.5,
+      "FPTS": 34.8
+    },
+    {
+      "Player": "Ameer Abdullah",
+      "Team": "DET",
+      "ATT": 35.3,
+      "YDS": 65.3,
+      "TDS": 0.3,
+      "REC": 8.7,
+      "FL": 0.3,
+      "FPTS": 34.7
+    },
+    {
+      "Player": "Robert Turbin",
+      "Team": "IND",
+      "ATT": 37.7,
+      "YDS": 52.7,
+      "TDS": 0.1,
+      "REC": 7.5,
+      "FL": 0.4,
+      "FPTS": 31.9
+    },
+    {
+      "Player": "Malcolm Brown",
+      "Team": "LAR",
+      "ATT": 45.9,
+      "YDS": 40.9,
+      "TDS": 0.1,
+      "REC": 5.6,
+      "FL": 0.8,
+      "FPTS": 31.8
+    },
+    {
+      "Player": "Raheem Mostert",
+      "Team": "SF",
+      "ATT": 40.1,
+      "YDS": 42,
+      "TDS": 0.1,
+      "REC": 6,
+      "FL": 1.5,
+      "FPTS": 28.7
+    },
+    {
+      "Player": "Mark Walton",
+      "Team": "CIN",
+      "ATT": 30.4,
+      "YDS": 53.1,
+      "TDS": 0.1,
+      "REC": 5.4,
+      "FL": 0.8,
+      "FPTS": 28
+    },
+    {
+      "Player": "Detrez Newsome",
+      "Team": "LAC",
+      "ATT": 24.7,
+      "YDS": 49.6,
+      "TDS": 0.3,
+      "REC": 4.1,
+      "FL": 0.3,
+      "FPTS": 28
+    },
+    {
+      "Player": "Boston Scott",
+      "Team": "NO",
+      "ATT": 26.6,
+      "YDS": 46.2,
+      "TDS": 0.2,
+      "REC": 6.5,
+      "FL": 0.2,
+      "FPTS": 27.2
+    },
+    {
+      "Player": "Cameron Artis-Payne",
+      "Team": "CAR",
+      "ATT": 34.4,
+      "YDS": 36.5,
+      "TDS": 0.1,
+      "REC": 6,
+      "FL": 0.4,
+      "FPTS": 26.9
+    },
+    {
+      "Player": "Mike Davis",
+      "Team": "SEA",
+      "ATT": 29,
+      "YDS": 59.8,
+      "TDS": 0.1,
+      "REC": 7.4,
+      "FL": 0.6,
+      "FPTS": 25.5
+    },
+    {
+      "Player": "Damien Williams",
+      "Team": "KC",
+      "ATT": 13,
+      "YDS": 73.1,
+      "TDS": 0.4,
+      "REC": 6.2,
+      "FL": 0.2,
+      "FPTS": 25
+    },
+    {
+      "Player": "Benny Cunningham",
+      "Team": "CHI",
+      "ATT": 11,
+      "YDS": 91.2,
+      "TDS": 0.4,
+      "REC": 8.6,
+      "FL": 0.2,
+      "FPTS": 24.1
+    },
+    {
+      "Player": "Christine Michael",
+      "Team": "IND",
+      "ATT": 28.2,
+      "YDS": 41.7,
+      "TDS": 0.2,
+      "REC": 7.2,
+      "FL": 0.2,
+      "FPTS": 23.5
+    },
+    {
+      "Player": "J.D. McKissic",
+      "Team": "SEA",
+      "ATT": 16.9,
+      "YDS": 73.7,
+      "TDS": 0.1,
+      "REC": 9.3,
+      "FL": 0,
+      "FPTS": 23.1
+    },
+    {
+      "Player": "T.J. Logan",
+      "Team": "ARI",
+      "ATT": 17.8,
+      "YDS": 50,
+      "TDS": 0.2,
+      "REC": 6,
+      "FL": 0.2,
+      "FPTS": 23
+    },
+    {
+      "Player": "Jaylen Samuels",
+      "Team": "PIT",
+      "ATT": 23.5,
+      "YDS": 45.5,
+      "TDS": 0.1,
+      "REC": 6.3,
+      "FL": 0.1,
+      "FPTS": 22.3
+    },
+    {
+      "Player": "Trenton Cannon",
+      "Team": "NYJ",
+      "ATT": 10.9,
+      "YDS": 48.3,
+      "TDS": 0.2,
+      "REC": 5,
+      "FL": 0.2,
+      "FPTS": 22.2
+    },
+    {
+      "Player": "Mike Boone",
+      "Team": "MIN",
+      "ATT": 6.4,
+      "YDS": 52.7,
+      "TDS": 0.3,
+      "REC": 2.2,
+      "FL": 0.3,
+      "FPTS": 21.3
+    },
+    {
+      "Player": "Tyler Ervin",
+      "Team": "HOU",
+      "ATT": 18.1,
+      "YDS": 43.7,
+      "TDS": 0.1,
+      "REC": 6.3,
+      "FL": 0.3,
+      "FPTS": 19.3
+    },
+    {
+      "Player": "Ito Smith",
+      "Team": "ATL",
+      "ATT": 20.3,
+      "YDS": 29.6,
+      "TDS": 0.1,
+      "REC": 3.6,
+      "FL": 0.1,
+      "FPTS": 16.6
+    },
+    {
+      "Player": "Wendell Smallwood",
+      "Team": "PHI",
+      "ATT": 21.7,
+      "YDS": 27.5,
+      "TDS": 0.1,
+      "REC": 3.9,
+      "FL": 0.5,
+      "FPTS": 15.9
+    },
+    {
+      "Player": "Alex Armah",
+      "Team": "CAR",
+      "ATT": 13.9,
+      "YDS": 40.2,
+      "TDS": 0.1,
+      "REC": 6.4,
+      "FL": 0.1,
+      "FPTS": 15.6
+    },
+    {
+      "Player": "Tommy Bohanon",
+      "Team": "JAC",
+      "ATT": 4.6,
+      "YDS": 44.9,
+      "TDS": 0.2,
+      "REC": 5.2,
+      "FL": 0,
+      "FPTS": 15.2
+    },
+    {
+      "Player": "Derek Watt",
+      "Team": "LAC",
+      "ATT": 8.5,
+      "YDS": 33.1,
+      "TDS": 0.2,
+      "REC": 3.9,
+      "FL": 0.1,
+      "FPTS": 12.4
+    },
+    {
+      "Player": "Andy Janovich",
+      "Team": "DEN",
+      "ATT": 5.4,
+      "YDS": 32.1,
+      "TDS": 0.1,
+      "REC": 3.9,
+      "FL": 0.1,
+      "FPTS": 12.3
+    },
+    {
+      "Player": "Gregory Howell",
+      "Team": "HOU",
+      "ATT": 9.1,
+      "YDS": 30.5,
+      "TDS": 0.1,
+      "REC": 3.8,
+      "FL": 0,
+      "FPTS": 12.2
+    },
+    {
+      "Player": "Patrick DiMarco",
+      "Team": "BUF",
+      "ATT": 3.7,
+      "YDS": 43.5,
+      "TDS": 0.2,
+      "REC": 5.1,
+      "FL": 0.1,
+      "FPTS": 11.6
+    },
+    {
+      "Player": "Anthony Sherman",
+      "Team": "KC",
+      "ATT": 6,
+      "YDS": 32.5,
+      "TDS": 0.1,
+      "REC": 4.5,
+      "FL": 0.1,
+      "FPTS": 11.4
+    },
+    {
+      "Player": "CJ Ham",
+      "Team": "MIN",
+      "ATT": 11.1,
+      "YDS": 32.5,
+      "TDS": 0.1,
+      "REC": 3.8,
+      "FL": 0.1,
+      "FPTS": 11
+    },
+    {
+      "Player": "Jamize Olawale",
+      "Team": "DAL",
+      "ATT": 7.1,
+      "YDS": 30.3,
+      "TDS": 0.1,
+      "REC": 3.5,
+      "FL": 0.1,
+      "FPTS": 10.7
+    },
+    {
+      "Player": "Shaun Wilson",
+      "Team": "TB",
+      "ATT": 9.6,
+      "YDS": 16.7,
+      "TDS": 0.1,
+      "REC": 2.1,
+      "FL": 0,
+      "FPTS": 9.3
+    },
+    {
+      "Player": "Keith Smith",
+      "Team": "OAK",
+      "ATT": 4.1,
+      "YDS": 27.2,
+      "TDS": 0.1,
+      "REC": 3.7,
+      "FL": 0,
+      "FPTS": 9.1
+    },
+    {
+      "Player": "Gus Edwards",
+      "Team": "BAL",
+      "ATT": 11,
+      "YDS": 12,
+      "TDS": 0.1,
+      "REC": 2,
+      "FL": 0.1,
+      "FPTS": 9.1
+    },
+    {
+      "Player": "Paul Perkins",
+      "Team": "NYG",
+      "ATT": 26,
+      "YDS": 0,
+      "TDS": 0,
+      "REC": 0,
+      "FL": 0,
+      "FPTS": 9
+    },
+    {
+      "Player": "David Williams",
+      "Team": "DEN",
+      "ATT": 11,
+      "YDS": 15,
+      "TDS": 0.1,
+      "REC": 2,
+      "FL": 0.1,
+      "FPTS": 8.8
+    },
+    {
+      "Player": "Tre Madden",
+      "Team": "SEA",
+      "ATT": 5.2,
+      "YDS": 28.5,
+      "TDS": 0.2,
+      "REC": 3,
+      "FL": 0.1,
+      "FPTS": 8.7
+    },
+    {
+      "Player": "David Fluellen",
+      "Team": "TEN",
+      "ATT": 10.3,
+      "YDS": 13.2,
+      "TDS": 0.1,
+      "REC": 1.9,
+      "FL": 0.2,
+      "FPTS": 8.6
+    },
+    {
+      "Player": "Zach Line",
+      "Team": "NO",
+      "ATT": 4.1,
+      "YDS": 22.6,
+      "TDS": 0.3,
+      "REC": 2.6,
+      "FL": 0,
+      "FPTS": 8.4
+    },
+    {
+      "Player": "Roosevelt Nix",
+      "Team": "PIT",
+      "ATT": 12.8,
+      "YDS": 12.1,
+      "TDS": 0.1,
+      "REC": 1.6,
+      "FL": 0.1,
+      "FPTS": 8
+    },
+    {
+      "Player": "Senorise Perry",
+      "Team": "MIA",
+      "ATT": 9.6,
+      "YDS": 13.3,
+      "TDS": 0.1,
+      "REC": 1.9,
+      "FL": 0.2,
+      "FPTS": 7.8
+    },
+    {
+      "Player": "Stevan Ridley",
+      "Team": "PIT",
+      "ATT": 13.3,
+      "YDS": 5.6,
+      "TDS": 0,
+      "REC": 1.1,
+      "FL": 0.1,
+      "FPTS": 7.6
+    },
+    {
+      "Player": "Michael Burton",
+      "Team": "CHI",
+      "ATT": 4,
+      "YDS": 18.2,
+      "TDS": 0.1,
+      "REC": 2.3,
+      "FL": 0.1,
+      "FPTS": 6.9
+    },
+    {
+      "Player": "James Develin",
+      "Team": "NE",
+      "ATT": 1,
+      "YDS": 27.3,
+      "TDS": 0.1,
+      "REC": 3,
+      "FL": 0,
+      "FPTS": 6.6
+    },
+    {
+      "Player": "Justin Davis",
+      "Team": "LAR",
+      "ATT": 7.9,
+      "YDS": 12.6,
+      "TDS": 0.1,
+      "REC": 1.9,
+      "FL": 0.1,
+      "FPTS": 6.4
+    },
+    {
+      "Player": "Taiwan Jones",
+      "Team": "BUF",
+      "ATT": 0.5,
+      "YDS": 16.8,
+      "TDS": 0,
+      "REC": 2.3,
+      "FL": 0.1,
+      "FPTS": 6
+    },
+    {
+      "Player": "Shane Smith",
+      "Team": "NYG",
+      "ATT": 6,
+      "YDS": 13.4,
+      "TDS": 0,
+      "REC": 1,
+      "FL": 0.1,
+      "FPTS": 4.5
+    },
+    {
+      "Player": "Derrick Coleman",
+      "Team": "ARI",
+      "ATT": 1,
+      "YDS": 20.5,
+      "TDS": 0.1,
+      "REC": 1,
+      "FL": 0,
+      "FPTS": 3.7
+    },
+    {
+      "Player": "Byron Marshall",
+      "Team": "WAS",
+      "ATT": 2,
+      "YDS": 11,
+      "TDS": 0,
+      "REC": 2,
+      "FL": 0.1,
+      "FPTS": 3.5
+    },
+    {
+      "Player": "Trey Edmunds",
+      "Team": "NO",
+      "ATT": 2.5,
+      "YDS": 4.3,
+      "TDS": 0,
+      "REC": 0.3,
+      "FL": 0,
+      "FPTS": 3.2
+    },
+    {
+      "Player": "Joe Kerridge",
+      "Team": "GB",
+      "ATT": 0.4,
+      "YDS": 4.9,
+      "TDS": 0,
+      "REC": 2.3,
+      "FL": 0,
+      "FPTS": 2.9
+    },
+    {
+      "Player": "Brian Hill",
+      "Team": "ATL",
+      "ATT": 0,
+      "YDS": 11,
+      "TDS": 0,
+      "REC": 1,
+      "FL": 0,
+      "FPTS": 2.1
+    },
+    {
+      "Player": "Brandon Wilson",
+      "Team": "CIN",
+      "ATT": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "REC": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Ricky Ortiz",
+      "Team": "ATL",
+      "ATT": 0,
+      "YDS": 56.3,
+      "TDS": 0.3,
+      "REC": 0,
+      "FL": 0.2,
+      "FPTS": 0
+    },
+    {
+      "Player": "De'Anthony Thomas",
+      "Team": "KC",
+      "ATT": 0,
+      "YDS": 73.8,
+      "TDS": 0.5,
+      "REC": 0,
+      "FL": 0.2,
+      "FPTS": 0
+    }
+  ],
+  "TES": [
+    {
+      "Player": "Rob Gronkowski",
+      "Team": "NE",
+      "REC": 73.9,
+      "YDS": "1,094.7",
+      "TDS": 9.3,
+      "FL": 0.3,
+      "FPTS": 238.3
+    },
+    {
+      "Player": "Travis Kelce",
+      "Team": "KC",
+      "REC": 82.5,
+      "YDS": 996,
+      "TDS": 6.8,
+      "FL": 0.2,
+      "FPTS": 222.4
+    },
+    {
+      "Player": "Zach Ertz",
+      "Team": "PHI",
+      "REC": 77.3,
+      "YDS": 862.6,
+      "TDS": 6.6,
+      "FL": 0.5,
+      "FPTS": 202
+    },
+    {
+      "Player": "Evan Engram",
+      "Team": "NYG",
+      "REC": 66.1,
+      "YDS": 746.9,
+      "TDS": 5.2,
+      "FL": 0.3,
+      "FPTS": 171.2
+    },
+    {
+      "Player": "Delanie Walker",
+      "Team": "TEN",
+      "REC": 66.3,
+      "YDS": 768.8,
+      "TDS": 5,
+      "FL": 1,
+      "FPTS": 171.2
+    },
+    {
+      "Player": "Greg Olsen",
+      "Team": "CAR",
+      "REC": 62.7,
+      "YDS": 772,
+      "TDS": 5.1,
+      "FL": 0.3,
+      "FPTS": 170
+    },
+    {
+      "Player": "Jimmy Graham",
+      "Team": "GB",
+      "REC": 61.6,
+      "YDS": 648.7,
+      "TDS": 6.7,
+      "FL": 0.4,
+      "FPTS": 165.6
+    },
+    {
+      "Player": "Kyle Rudolph",
+      "Team": "MIN",
+      "REC": 61,
+      "YDS": 610.8,
+      "TDS": 6,
+      "FL": 0.2,
+      "FPTS": 157.5
+    },
+    {
+      "Player": "Jack Doyle",
+      "Team": "IND",
+      "REC": 65.1,
+      "YDS": 627.7,
+      "TDS": 4.8,
+      "FL": 1.1,
+      "FPTS": 154.7
+    },
+    {
+      "Player": "Jordan Reed",
+      "Team": "WAS",
+      "REC": 62.1,
+      "YDS": 644.2,
+      "TDS": 4.8,
+      "FL": 0.5,
+      "FPTS": 154.3
+    },
+    {
+      "Player": "Trey Burton",
+      "Team": "CHI",
+      "REC": 57.1,
+      "YDS": 628.9,
+      "TDS": 4.5,
+      "FL": 0.3,
+      "FPTS": 146.5
+    },
+    {
+      "Player": "Charles Clay",
+      "Team": "BUF",
+      "REC": 53.9,
+      "YDS": 583.1,
+      "TDS": 3.3,
+      "FL": 0.3,
+      "FPTS": 131.6
+    },
+    {
+      "Player": "George Kittle",
+      "Team": "SF",
+      "REC": 47.8,
+      "YDS": 566.1,
+      "TDS": 4.2,
+      "FL": 0.3,
+      "FPTS": 129
+    },
+    {
+      "Player": "David Njoku",
+      "Team": "CLE",
+      "REC": 48.2,
+      "YDS": 543.3,
+      "TDS": 4.2,
+      "FL": 0.4,
+      "FPTS": 126.9
+    },
+    {
+      "Player": "Jared Cook",
+      "Team": "OAK",
+      "REC": 47,
+      "YDS": 583.3,
+      "TDS": 3.5,
+      "FL": 0.6,
+      "FPTS": 125.3
+    },
+    {
+      "Player": "Eric Ebron",
+      "Team": "IND",
+      "REC": 46.3,
+      "YDS": 534.8,
+      "TDS": 4,
+      "FL": 0.5,
+      "FPTS": 122.8
+    },
+    {
+      "Player": "Cameron Brate",
+      "Team": "TB",
+      "REC": 44.3,
+      "YDS": 539.1,
+      "TDS": 4.1,
+      "FL": 0.3,
+      "FPTS": 122.1
+    },
+    {
+      "Player": "Austin Seferian-Jenkins",
+      "Team": "JAC",
+      "REC": 47.4,
+      "YDS": 496.2,
+      "TDS": 3.6,
+      "FL": 0.6,
+      "FPTS": 117.3
+    },
+    {
+      "Player": "Tyler Eifert",
+      "Team": "CIN",
+      "REC": 40.6,
+      "YDS": 483.7,
+      "TDS": 4.7,
+      "FL": 0.3,
+      "FPTS": 116.5
+    },
+    {
+      "Player": "Benjamin Watson",
+      "Team": "NO",
+      "REC": 45.4,
+      "YDS": 471.7,
+      "TDS": 3.8,
+      "FL": 0.2,
+      "FPTS": 115
+    },
+    {
+      "Player": "Austin Hooper",
+      "Team": "ATL",
+      "REC": 44.1,
+      "YDS": 478,
+      "TDS": 3.4,
+      "FL": 0.2,
+      "FPTS": 112.1
+    },
+    {
+      "Player": "Ricky Seals-Jones",
+      "Team": "ARI",
+      "REC": 37.7,
+      "YDS": 500.7,
+      "TDS": 4,
+      "FL": 0.3,
+      "FPTS": 111.3
+    },
+    {
+      "Player": "Vance McDonald",
+      "Team": "PIT",
+      "REC": 40.6,
+      "YDS": 493.5,
+      "TDS": 3.6,
+      "FL": 0.3,
+      "FPTS": 110.7
+    },
+    {
+      "Player": "O.J. Howard",
+      "Team": "TB",
+      "REC": 38.2,
+      "YDS": 491.2,
+      "TDS": 3.9,
+      "FL": 1.2,
+      "FPTS": 108.6
+    },
+    {
+      "Player": "Mike Gesicki",
+      "Team": "MIA",
+      "REC": 41.8,
+      "YDS": 397.9,
+      "TDS": 2.9,
+      "FL": 0.3,
+      "FPTS": 98.5
+    },
+    {
+      "Player": "Vernon Davis",
+      "Team": "WAS",
+      "REC": 32.7,
+      "YDS": 419,
+      "TDS": 2.6,
+      "FL": 1,
+      "FPTS": 88.2
+    },
+    {
+      "Player": "Antonio Gates",
+      "Team": "LAC",
+      "REC": 31.5,
+      "YDS": 357.1,
+      "TDS": 3.5,
+      "FL": 0.3,
+      "FPTS": 87.9
+    },
+    {
+      "Player": "Ryan Griffin",
+      "Team": "HOU",
+      "REC": 33.8,
+      "YDS": 381.1,
+      "TDS": 2.4,
+      "FL": 0.6,
+      "FPTS": 84.9
+    },
+    {
+      "Player": "Hayden Hurst",
+      "Team": "BAL",
+      "REC": 35.4,
+      "YDS": 347.9,
+      "TDS": 2.4,
+      "FL": 0.2,
+      "FPTS": 84.2
+    },
+    {
+      "Player": "Luke Willson",
+      "Team": "DET",
+      "REC": 32.6,
+      "YDS": 314.5,
+      "TDS": 2.8,
+      "FL": 0.2,
+      "FPTS": 80.3
+    },
+    {
+      "Player": "Blake Jarwin",
+      "Team": "DAL",
+      "REC": 29.1,
+      "YDS": 316.8,
+      "TDS": 2.4,
+      "FL": 0.3,
+      "FPTS": 74.6
+    },
+    {
+      "Player": "Jake Butt",
+      "Team": "DEN",
+      "REC": 28.1,
+      "YDS": 321.6,
+      "TDS": 2.3,
+      "FL": 0.3,
+      "FPTS": 73.6
+    },
+    {
+      "Player": "Nick Vannett",
+      "Team": "SEA",
+      "REC": 29,
+      "YDS": 286.1,
+      "TDS": 2.5,
+      "FL": 0.2,
+      "FPTS": 72.1
+    },
+    {
+      "Player": "Dallas Goedert",
+      "Team": "PHI",
+      "REC": 27.5,
+      "YDS": 284.1,
+      "TDS": 2.5,
+      "FL": 0.3,
+      "FPTS": 70.2
+    },
+    {
+      "Player": "Tyler Higbee",
+      "Team": "LAR",
+      "REC": 26.9,
+      "YDS": 294.7,
+      "TDS": 2.1,
+      "FL": 0.2,
+      "FPTS": 68.5
+    },
+    {
+      "Player": "Tyler Kroft",
+      "Team": "CIN",
+      "REC": 26.5,
+      "YDS": 269.3,
+      "TDS": 2.5,
+      "FL": 0.3,
+      "FPTS": 67.6
+    },
+    {
+      "Player": "Garrett Celek",
+      "Team": "SF",
+      "REC": 23.6,
+      "YDS": 278.5,
+      "TDS": 2.5,
+      "FL": 0.2,
+      "FPTS": 65.7
+    },
+    {
+      "Player": "Virgil Green",
+      "Team": "LAC",
+      "REC": 24.7,
+      "YDS": 275,
+      "TDS": 2,
+      "FL": 0.2,
+      "FPTS": 64.1
+    },
+    {
+      "Player": "Jesse James",
+      "Team": "PIT",
+      "REC": 26.9,
+      "YDS": 247.3,
+      "TDS": 1.8,
+      "FL": 0.2,
+      "FPTS": 62
+    },
+    {
+      "Player": "Jonnu Smith",
+      "Team": "TEN",
+      "REC": 24.5,
+      "YDS": 242.8,
+      "TDS": 1.9,
+      "FL": 0.2,
+      "FPTS": 59.9
+    },
+    {
+      "Player": "Gerald Everett",
+      "Team": "LAR",
+      "REC": 22.3,
+      "YDS": 248.6,
+      "TDS": 2.2,
+      "FL": 0.6,
+      "FPTS": 59
+    },
+    {
+      "Player": "Jermaine Gresham",
+      "Team": "ARI",
+      "REC": 24.8,
+      "YDS": 256.6,
+      "TDS": 1.5,
+      "FL": 0.2,
+      "FPTS": 58.8
+    },
+    {
+      "Player": "Jordan Akins",
+      "Team": "HOU",
+      "REC": 22.4,
+      "YDS": 231,
+      "TDS": 1.7,
+      "FL": 0.3,
+      "FPTS": 55.4
+    },
+    {
+      "Player": "Chris Herndon IV",
+      "Team": "NYJ",
+      "REC": 22.2,
+      "YDS": 227.9,
+      "TDS": 1.6,
+      "FL": 0.3,
+      "FPTS": 54.1
+    },
+    {
+      "Player": "Jeff Heuerman",
+      "Team": "DEN",
+      "REC": 19.7,
+      "YDS": 225.5,
+      "TDS": 1.6,
+      "FL": 0.2,
+      "FPTS": 51.5
+    },
+    {
+      "Player": "Marcedes Lewis",
+      "Team": "GB",
+      "REC": 16.9,
+      "YDS": 182.6,
+      "TDS": 2.3,
+      "FL": 0.2,
+      "FPTS": 48.7
+    },
+    {
+      "Player": "Mark Andrews",
+      "Team": "BAL",
+      "REC": 19.2,
+      "YDS": 190.9,
+      "TDS": 1.4,
+      "FL": 0.2,
+      "FPTS": 46.4
+    },
+    {
+      "Player": "Ed Dickson",
+      "Team": "SEA",
+      "REC": 15.9,
+      "YDS": 188.5,
+      "TDS": 1.6,
+      "FL": 0.1,
+      "FPTS": 44.2
+    },
+    {
+      "Player": "Nick Boyle",
+      "Team": "BAL",
+      "REC": 18.3,
+      "YDS": 166.5,
+      "TDS": 1,
+      "FL": 0.2,
+      "FPTS": 40.9
+    },
+    {
+      "Player": "Demetrius Harris",
+      "Team": "KC",
+      "REC": 15.7,
+      "YDS": 165,
+      "TDS": 1.3,
+      "FL": 0.1,
+      "FPTS": 39.5
+    },
+    {
+      "Player": "Jordan Leggett",
+      "Team": "NYJ",
+      "REC": 16.3,
+      "YDS": 167.1,
+      "TDS": 1.1,
+      "FL": 0.3,
+      "FPTS": 39
+    },
+    {
+      "Player": "Josh Hill",
+      "Team": "NO",
+      "REC": 15.5,
+      "YDS": 163.5,
+      "TDS": 1.4,
+      "FL": 1,
+      "FPTS": 38.1
+    },
+    {
+      "Player": "Dwayne Allen",
+      "Team": "NE",
+      "REC": 13.5,
+      "YDS": 149.3,
+      "TDS": 1.5,
+      "FL": 0.2,
+      "FPTS": 37.1
+    },
+    {
+      "Player": "Will Dissly",
+      "Team": "SEA",
+      "REC": 13.2,
+      "YDS": 166.7,
+      "TDS": 1.2,
+      "FL": 0.2,
+      "FPTS": 36.9
+    },
+    {
+      "Player": "Rico Gathers",
+      "Team": "DAL",
+      "REC": 14.5,
+      "YDS": 150.7,
+      "TDS": 1.2,
+      "FL": 0.5,
+      "FPTS": 36
+    },
+    {
+      "Player": "Rhett Ellison",
+      "Team": "NYG",
+      "REC": 14.7,
+      "YDS": 148.3,
+      "TDS": 1,
+      "FL": 0.2,
+      "FPTS": 35.4
+    },
+    {
+      "Player": "A.J. Derby",
+      "Team": "MIA",
+      "REC": 12.8,
+      "YDS": 155.6,
+      "TDS": 1.1,
+      "FL": 0.3,
+      "FPTS": 34.3
+    },
+    {
+      "Player": "Seth DeValve",
+      "Team": "CLE",
+      "REC": 13.2,
+      "YDS": 144.4,
+      "TDS": 1.1,
+      "FL": 0.2,
+      "FPTS": 34.1
+    },
+    {
+      "Player": "Adam Shaheen",
+      "Team": "CHI",
+      "REC": 12.6,
+      "YDS": 137.7,
+      "TDS": 1.3,
+      "FL": 0.1,
+      "FPTS": 33.9
+    },
+    {
+      "Player": "David Morgan",
+      "Team": "MIN",
+      "REC": 13.5,
+      "YDS": 134.8,
+      "TDS": 1,
+      "FL": 0.3,
+      "FPTS": 32.3
+    },
+    {
+      "Player": "Lance Kendricks",
+      "Team": "GB",
+      "REC": 12.6,
+      "YDS": 130.3,
+      "TDS": 1.1,
+      "FL": 0.1,
+      "FPTS": 31.9
+    },
+    {
+      "Player": "Levine Toilolo",
+      "Team": "DET",
+      "REC": 12,
+      "YDS": 120.2,
+      "TDS": 0.8,
+      "FL": 0.1,
+      "FPTS": 29
+    },
+    {
+      "Player": "Ian Thomas",
+      "Team": "CAR",
+      "REC": 9.7,
+      "YDS": 129.2,
+      "TDS": 0.9,
+      "FL": 0.2,
+      "FPTS": 27.9
+    },
+    {
+      "Player": "Geoff Swaim",
+      "Team": "DAL",
+      "REC": 10.4,
+      "YDS": 111.1,
+      "TDS": 1.1,
+      "FL": 0.2,
+      "FPTS": 27.6
+    },
+    {
+      "Player": "Logan Thomas",
+      "Team": "BUF",
+      "REC": 10.6,
+      "YDS": 116.3,
+      "TDS": 0.7,
+      "FL": 0.1,
+      "FPTS": 26.3
+    },
+    {
+      "Player": "Dion Sims",
+      "Team": "CHI",
+      "REC": 10,
+      "YDS": 106.9,
+      "TDS": 0.7,
+      "FL": 0.1,
+      "FPTS": 24.9
+    },
+    {
+      "Player": "MarQueis Gray",
+      "Team": "MIA",
+      "REC": 10.7,
+      "YDS": 105.1,
+      "TDS": 0.6,
+      "FL": 0.2,
+      "FPTS": 24.5
+    },
+    {
+      "Player": "Richard Rodgers",
+      "Team": "PHI",
+      "REC": 9,
+      "YDS": 99.7,
+      "TDS": 0.9,
+      "FL": 0,
+      "FPTS": 24.5
+    },
+    {
+      "Player": "Niles Paul",
+      "Team": "JAC",
+      "REC": 8.6,
+      "YDS": 101,
+      "TDS": 0.8,
+      "FL": 0.1,
+      "FPTS": 23
+    },
+    {
+      "Player": "Michael Roberts",
+      "Team": "DET",
+      "REC": 9.5,
+      "YDS": 98,
+      "TDS": 0.6,
+      "FL": 0.1,
+      "FPTS": 22.9
+    },
+    {
+      "Player": "Darren Fells",
+      "Team": "CLE",
+      "REC": 9.3,
+      "YDS": 100,
+      "TDS": 0.7,
+      "FL": 0.5,
+      "FPTS": 22.3
+    },
+    {
+      "Player": "Maxx Williams",
+      "Team": "BAL",
+      "REC": 10.7,
+      "YDS": 88.5,
+      "TDS": 0.5,
+      "FL": 0.4,
+      "FPTS": 22.1
+    },
+    {
+      "Player": "Durham Smythe",
+      "Team": "MIA",
+      "REC": 9.5,
+      "YDS": 92.7,
+      "TDS": 0.6,
+      "FL": 0.3,
+      "FPTS": 22.1
+    },
+    {
+      "Player": "James O'Shaughnessy",
+      "Team": "JAC",
+      "REC": 8,
+      "YDS": 94.4,
+      "TDS": 0.8,
+      "FL": 0.1,
+      "FPTS": 21.7
+    },
+    {
+      "Player": "Erik Swoope",
+      "Team": "IND",
+      "REC": 8.2,
+      "YDS": 96,
+      "TDS": 0.5,
+      "FL": 0.1,
+      "FPTS": 20.6
+    },
+    {
+      "Player": "Eric Tomlinson",
+      "Team": "NYJ",
+      "REC": 7.8,
+      "YDS": 88.6,
+      "TDS": 0.7,
+      "FL": 0.1,
+      "FPTS": 20.6
+    },
+    {
+      "Player": "Jacob Hollister",
+      "Team": "NE",
+      "REC": 8.2,
+      "YDS": 85.6,
+      "TDS": 0.7,
+      "FL": 0.1,
+      "FPTS": 20.5
+    },
+    {
+      "Player": "Dalton Schultz",
+      "Team": "DAL",
+      "REC": 8.3,
+      "YDS": 83.5,
+      "TDS": 0.5,
+      "FL": 0.3,
+      "FPTS": 19.2
+    },
+    {
+      "Player": "Hakeem Valles",
+      "Team": "DET",
+      "REC": 7.8,
+      "YDS": 77.2,
+      "TDS": 0.6,
+      "FL": 0.1,
+      "FPTS": 19.1
+    },
+    {
+      "Player": "Eric Saubert",
+      "Team": "ATL",
+      "REC": 6.4,
+      "YDS": 64.9,
+      "TDS": 0.6,
+      "FL": 0,
+      "FPTS": 16.5
+    },
+    {
+      "Player": "Neal Sterling",
+      "Team": "NYJ",
+      "REC": 6.4,
+      "YDS": 79.1,
+      "TDS": 0.3,
+      "FL": 0.1,
+      "FPTS": 15.8
+    },
+    {
+      "Player": "Lee Smith",
+      "Team": "OAK",
+      "REC": 6.7,
+      "YDS": 59.9,
+      "TDS": 0.3,
+      "FL": 0.1,
+      "FPTS": 14.3
+    },
+    {
+      "Player": "Jordan Thomas",
+      "Team": "HOU",
+      "REC": 5.4,
+      "YDS": 56.2,
+      "TDS": 0.6,
+      "FL": 0,
+      "FPTS": 14.2
+    },
+    {
+      "Player": "Cole Wick",
+      "Team": "SF",
+      "REC": 5.3,
+      "YDS": 56.4,
+      "TDS": 0.5,
+      "FL": 0,
+      "FPTS": 13.8
+    },
+    {
+      "Player": "Derek Carrier",
+      "Team": "OAK",
+      "REC": 6.9,
+      "YDS": 53.6,
+      "TDS": 0.2,
+      "FL": 0.1,
+      "FPTS": 13.6
+    },
+    {
+      "Player": "Xavier Grimble",
+      "Team": "PIT",
+      "REC": 5.6,
+      "YDS": 50.7,
+      "TDS": 0.5,
+      "FL": 0.1,
+      "FPTS": 13.2
+    },
+    {
+      "Player": "Logan Paulsen",
+      "Team": "ATL",
+      "REC": 5.4,
+      "YDS": 53.1,
+      "TDS": 0.4,
+      "FL": 0.1,
+      "FPTS": 13
+    },
+    {
+      "Player": "C.J. Uzomah",
+      "Team": "CIN",
+      "REC": 6,
+      "YDS": 56.5,
+      "TDS": 0.2,
+      "FL": 0.1,
+      "FPTS": 12.5
+    },
+    {
+      "Player": "Daniel Brown",
+      "Team": "CHI",
+      "REC": 5.1,
+      "YDS": 53.4,
+      "TDS": 0.3,
+      "FL": 0.1,
+      "FPTS": 12.2
+    },
+    {
+      "Player": "Alex Ellis",
+      "Team": "KC",
+      "REC": 4.9,
+      "YDS": 49.5,
+      "TDS": 0.3,
+      "FL": 0,
+      "FPTS": 11.9
+    },
+    {
+      "Player": "Tyler Conklin",
+      "Team": "NE",
+      "REC": 4.8,
+      "YDS": 53.5,
+      "TDS": 0.2,
+      "FL": 0,
+      "FPTS": 11
+    },
+    {
+      "Player": "Jeremy Sprinkle",
+      "Team": "WAS",
+      "REC": 4.4,
+      "YDS": 45.5,
+      "TDS": 0.4,
+      "FL": 0.1,
+      "FPTS": 10.9
+    },
+    {
+      "Player": "Khari Lee",
+      "Team": "BUF",
+      "REC": 4.4,
+      "YDS": 43.6,
+      "TDS": 0.3,
+      "FL": 0,
+      "FPTS": 10.7
+    },
+    {
+      "Player": "Cethan Carter",
+      "Team": "CIN",
+      "REC": 4,
+      "YDS": 43.3,
+      "TDS": 0.3,
+      "FL": 0,
+      "FPTS": 10.2
+    },
+    {
+      "Player": "Dan Arnold",
+      "Team": "NO",
+      "REC": 3.7,
+      "YDS": 39.7,
+      "TDS": 0.4,
+      "FL": 0,
+      "FPTS": 10
+    },
+    {
+      "Player": "Robert Tonyan",
+      "Team": "GB",
+      "REC": 3.6,
+      "YDS": 38.1,
+      "TDS": 0.4,
+      "FL": 0,
+      "FPTS": 9.8
+    },
+    {
+      "Player": "Antony Auclair",
+      "Team": "TB",
+      "REC": 3.8,
+      "YDS": 40.6,
+      "TDS": 0.3,
+      "FL": 0.1,
+      "FPTS": 9.7
+    },
+    {
+      "Player": "Luke Stocker",
+      "Team": "TEN",
+      "REC": 4.1,
+      "YDS": 32,
+      "TDS": 0.4,
+      "FL": 0.1,
+      "FPTS": 9.3
+    },
+    {
+      "Player": "Mason Schreck",
+      "Team": "CIN",
+      "REC": 4,
+      "YDS": 35,
+      "TDS": 0.3,
+      "FL": 0,
+      "FPTS": 9.3
+    },
+    {
+      "Player": "Alan Cross",
+      "Team": "TB",
+      "REC": 3.6,
+      "YDS": 36.2,
+      "TDS": 0.3,
+      "FL": 0,
+      "FPTS": 8.7
+    },
+    {
+      "Player": "Ben Braunecker",
+      "Team": "CHI",
+      "REC": 3.5,
+      "YDS": 37.4,
+      "TDS": 0.3,
+      "FL": 0.1,
+      "FPTS": 8.6
+    },
+    {
+      "Player": "Orson Charles",
+      "Team": "CLE",
+      "REC": 3.5,
+      "YDS": 45.5,
+      "TDS": 0.1,
+      "FL": 0.1,
+      "FPTS": 8.5
+    },
+    {
+      "Player": "Gabe Holmes",
+      "Team": "ARI",
+      "REC": 3.2,
+      "YDS": 35.8,
+      "TDS": 0.2,
+      "FL": 0,
+      "FPTS": 8.1
+    },
+    {
+      "Player": "Bucky Hodges",
+      "Team": "PIT",
+      "REC": 3.5,
+      "YDS": 30.5,
+      "TDS": 0.3,
+      "FL": 0,
+      "FPTS": 8.1
+    },
+    {
+      "Player": "Chris Manhertz",
+      "Team": "CAR",
+      "REC": 3.7,
+      "YDS": 32.4,
+      "TDS": 0.2,
+      "FL": 0,
+      "FPTS": 8
+    },
+    {
+      "Player": "Sean Culkin",
+      "Team": "LAC",
+      "REC": 3,
+      "YDS": 36,
+      "TDS": 0.2,
+      "FL": 0,
+      "FPTS": 7.8
+    },
+    {
+      "Player": "Michael Hoomanawanui",
+      "Team": "NO",
+      "REC": 3,
+      "YDS": 29,
+      "TDS": 0.2,
+      "FL": 0,
+      "FPTS": 7.1
+    },
+    {
+      "Player": "Troy Fumagalli",
+      "Team": "DEN",
+      "REC": 3,
+      "YDS": 29.5,
+      "TDS": 0.1,
+      "FL": 0,
+      "FPTS": 6.3
+    },
+    {
+      "Player": "Ross Travis",
+      "Team": "IND",
+      "REC": 2.6,
+      "YDS": 23.1,
+      "TDS": 0.2,
+      "FL": 0,
+      "FPTS": 6.1
+    },
+    {
+      "Player": "Darrell Daniels",
+      "Team": "SEA",
+      "REC": 2.8,
+      "YDS": 24.9,
+      "TDS": 0.2,
+      "FL": 0.1,
+      "FPTS": 6
+    },
+    {
+      "Player": "Cole Hikutini",
+      "Team": "MIN",
+      "REC": 2,
+      "YDS": 15,
+      "TDS": 0.1,
+      "FL": 0,
+      "FPTS": 4.1
+    },
+    {
+      "Player": "Temarrick Hemingway",
+      "Team": "LAR",
+      "REC": 2,
+      "YDS": 15,
+      "TDS": 0.1,
+      "FL": 0,
+      "FPTS": 4.1
+    },
+    {
+      "Player": "Ryan Hewitt",
+      "Team": "IND",
+      "REC": 2,
+      "YDS": 14,
+      "TDS": 0.1,
+      "FL": 0,
+      "FPTS": 4
+    },
+    {
+      "Player": "Jaylen Samuels",
+      "Team": "PIT",
+      "REC": 0,
+      "YDS": 92.6,
+      "TDS": 0.5,
+      "FL": 0.6,
+      "FPTS": 0
+    }
+  ],
+  "WRS": [
+    {
+      "Player": "Antonio Brown",
+      "Team": "PIT",
+      "REC": 105.3,
+      "YDS": 1.9,
+      "TDS": 0,
+      "ATT": 0.3,
+      "FL": 0.3,
+      "FPTS": 313.2
+    },
+    {
+      "Player": "DeAndre Hopkins",
+      "Team": "HOU",
+      "REC": 94.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.6,
+      "FPTS": 283.3
+    },
+    {
+      "Player": "Julio Jones",
+      "Team": "ATL",
+      "REC": 93.7,
+      "YDS": 8.4,
+      "TDS": 0,
+      "ATT": 0.9,
+      "FL": 0.4,
+      "FPTS": 279.4
+    },
+    {
+      "Player": "Odell Beckham Jr.",
+      "Team": "NYG",
+      "REC": 97.2,
+      "YDS": 16.4,
+      "TDS": 0,
+      "ATT": 2.3,
+      "FL": 0.6,
+      "FPTS": 272.6
+    },
+    {
+      "Player": "Michael Thomas",
+      "Team": "NO",
+      "REC": 99.1,
+      "YDS": 0.8,
+      "TDS": 0,
+      "ATT": 0.2,
+      "FL": 0.4,
+      "FPTS": 268.6
+    },
+    {
+      "Player": "Keenan Allen",
+      "Team": "LAC",
+      "REC": 95.9,
+      "YDS": 5.6,
+      "TDS": 0,
+      "ATT": 1.2,
+      "FL": 0.4,
+      "FPTS": 265.6
+    },
+    {
+      "Player": "Davante Adams",
+      "Team": "GB",
+      "REC": 85.4,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 246.6
+    },
+    {
+      "Player": "A.J. Green",
+      "Team": "CIN",
+      "REC": 85.4,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 1.2,
+      "FPTS": 245.3
+    },
+    {
+      "Player": "Mike Evans",
+      "Team": "TB",
+      "REC": 81.6,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 235.2
+    },
+    {
+      "Player": "Tyreek Hill",
+      "Team": "KC",
+      "REC": 76.1,
+      "YDS": 100.3,
+      "TDS": 0.8,
+      "ATT": 16.4,
+      "FL": 0.4,
+      "FPTS": 229.6
+    },
+    {
+      "Player": "Larry Fitzgerald",
+      "Team": "ARI",
+      "REC": 96.4,
+      "YDS": 0.1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.8,
+      "FPTS": 229
+    },
+    {
+      "Player": "Stefon Diggs",
+      "Team": "MIN",
+      "REC": 78.9,
+      "YDS": 26.1,
+      "TDS": 0.1,
+      "ATT": 5.8,
+      "FL": 0.4,
+      "FPTS": 223.1
+    },
+    {
+      "Player": "Amari Cooper",
+      "Team": "OAK",
+      "REC": 78.1,
+      "YDS": 6,
+      "TDS": 0,
+      "ATT": 0.9,
+      "FL": 0.4,
+      "FPTS": 220.4
+    },
+    {
+      "Player": "Doug Baldwin",
+      "Team": "SEA",
+      "REC": 77.1,
+      "YDS": 5.6,
+      "TDS": 0,
+      "ATT": 2,
+      "FL": 0.3,
+      "FPTS": 219.4
+    },
+    {
+      "Player": "Adam Thielen",
+      "Team": "MIN",
+      "REC": 80.8,
+      "YDS": 7.4,
+      "TDS": 0,
+      "ATT": 1.2,
+      "FL": 1.2,
+      "FPTS": 219.3
+    },
+    {
+      "Player": "Golden Tate",
+      "Team": "DET",
+      "REC": 89.6,
+      "YDS": 20.2,
+      "TDS": 0,
+      "ATT": 5.1,
+      "FL": 0.8,
+      "FPTS": 218.2
+    },
+    {
+      "Player": "T.Y. Hilton",
+      "Team": "IND",
+      "REC": 72.3,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.7,
+      "FPTS": 217.5
+    },
+    {
+      "Player": "Demaryius Thomas",
+      "Team": "DEN",
+      "REC": 82.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.8,
+      "FPTS": 214.7
+    },
+    {
+      "Player": "Jarvis Landry",
+      "Team": "CLE",
+      "REC": 87.5,
+      "YDS": 4.4,
+      "TDS": 0,
+      "ATT": 1.1,
+      "FL": 1.5,
+      "FPTS": 210.4
+    },
+    {
+      "Player": "JuJu Smith-Schuster",
+      "Team": "PIT",
+      "REC": 66,
+      "YDS": 2,
+      "TDS": 0,
+      "ATT": 0.2,
+      "FL": 0.3,
+      "FPTS": 200.9
+    },
+    {
+      "Player": "Allen Robinson",
+      "Team": "CHI",
+      "REC": 69.3,
+      "YDS": 0.8,
+      "TDS": 0,
+      "ATT": 0.2,
+      "FL": 0.3,
+      "FPTS": 199
+    },
+    {
+      "Player": "Marvin Jones",
+      "Team": "DET",
+      "REC": 61.2,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 194.1
+    },
+    {
+      "Player": "Michael Crabtree",
+      "Team": "BAL",
+      "REC": 74.1,
+      "YDS": 0.1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 192.6
+    },
+    {
+      "Player": "Brandin Cooks",
+      "Team": "LAR",
+      "REC": 61.1,
+      "YDS": 36.4,
+      "TDS": 0.3,
+      "ATT": 6.9,
+      "FL": 0.4,
+      "FPTS": 190.4
+    },
+    {
+      "Player": "Josh Gordon",
+      "Team": "CLE",
+      "REC": 62.5,
+      "YDS": 3,
+      "TDS": 0,
+      "ATT": 0.6,
+      "FL": 0.4,
+      "FPTS": 189.5
+    },
+    {
+      "Player": "Marquise Goodwin",
+      "Team": "SF",
+      "REC": 59.6,
+      "YDS": 25.8,
+      "TDS": 0,
+      "ATT": 3.4,
+      "FL": 0.4,
+      "FPTS": 184.9
+    },
+    {
+      "Player": "Chris Hogan",
+      "Team": "NE",
+      "REC": 60,
+      "YDS": 14.9,
+      "TDS": 0,
+      "ATT": 2.8,
+      "FL": 0.4,
+      "FPTS": 183.4
+    },
+    {
+      "Player": "Jamison Crowder",
+      "Team": "WAS",
+      "REC": 71.2,
+      "YDS": 19.6,
+      "TDS": 0.1,
+      "ATT": 4.3,
+      "FL": 1.5,
+      "FPTS": 181.5
+    },
+    {
+      "Player": "Robby Anderson",
+      "Team": "NYJ",
+      "REC": 62.6,
+      "YDS": 16.1,
+      "TDS": 0,
+      "ATT": 2.8,
+      "FL": 0.3,
+      "FPTS": 180.2
+    },
+    {
+      "Player": "Pierre Garcon",
+      "Team": "SF",
+      "REC": 68.3,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0.1,
+      "FL": 0.4,
+      "FPTS": 179.3
+    },
+    {
+      "Player": "Emmanuel Sanders",
+      "Team": "DEN",
+      "REC": 68.1,
+      "YDS": 3.5,
+      "TDS": 0,
+      "ATT": 0.1,
+      "FL": 0.3,
+      "FPTS": 179.1
+    },
+    {
+      "Player": "Robert Woods",
+      "Team": "LAR",
+      "REC": 62.7,
+      "YDS": 10.8,
+      "TDS": 0,
+      "ATT": 2,
+      "FL": 0.7,
+      "FPTS": 178.1
+    },
+    {
+      "Player": "Corey Davis",
+      "Team": "TEN",
+      "REC": 67.9,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 1,
+      "FPTS": 176.8
+    },
+    {
+      "Player": "Cooper Kupp",
+      "Team": "LAR",
+      "REC": 62.7,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.7,
+      "FPTS": 176.4
+    },
+    {
+      "Player": "Devin Funchess",
+      "Team": "CAR",
+      "REC": 57.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 175.3
+    },
+    {
+      "Player": "Sammy Watkins",
+      "Team": "KC",
+      "REC": 56.6,
+      "YDS": 1.1,
+      "TDS": 0,
+      "ATT": 0.3,
+      "FL": 0.2,
+      "FPTS": 168.3
+    },
+    {
+      "Player": "Jordy Nelson",
+      "Team": "OAK",
+      "REC": 66.8,
+      "YDS": 3.8,
+      "TDS": 0,
+      "ATT": 0.7,
+      "FL": 0.4,
+      "FPTS": 168.3
+    },
+    {
+      "Player": "Randall Cobb",
+      "Team": "GB",
+      "REC": 65.8,
+      "YDS": 33.2,
+      "TDS": 0.1,
+      "ATT": 6.8,
+      "FL": 0.4,
+      "FPTS": 167.1
+    },
+    {
+      "Player": "Sterling Shepard",
+      "Team": "NYG",
+      "REC": 63.7,
+      "YDS": 10.8,
+      "TDS": 0,
+      "ATT": 2.7,
+      "FL": 0.4,
+      "FPTS": 166.1
+    },
+    {
+      "Player": "Nelson Agholor",
+      "Team": "PHI",
+      "REC": 60.4,
+      "YDS": 18.6,
+      "TDS": 0,
+      "ATT": 3.2,
+      "FL": 0.4,
+      "FPTS": 165.4
+    },
+    {
+      "Player": "Kenny Stills",
+      "Team": "MIA",
+      "REC": 56.2,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 1,
+      "FPTS": 162.8
+    },
+    {
+      "Player": "Kelvin Benjamin",
+      "Team": "BUF",
+      "REC": 55.3,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 157.2
+    },
+    {
+      "Player": "Julian Edelman",
+      "Team": "NE",
+      "REC": 60.9,
+      "YDS": 22.2,
+      "TDS": 0,
+      "ATT": 4.3,
+      "FL": 0.7,
+      "FPTS": 156.6
+    },
+    {
+      "Player": "Will Fuller",
+      "Team": "HOU",
+      "REC": 51.5,
+      "YDS": 10,
+      "TDS": 0,
+      "ATT": 2.3,
+      "FL": 0.3,
+      "FPTS": 156.5
+    },
+    {
+      "Player": "Alshon Jeffery",
+      "Team": "PHI",
+      "REC": 50,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 155
+    },
+    {
+      "Player": "Keelan Cole",
+      "Team": "JAC",
+      "REC": 51.3,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.6,
+      "FPTS": 154.4
+    },
+    {
+      "Player": "Mohamed Sanu",
+      "Team": "ATL",
+      "REC": 59.6,
+      "YDS": 11.1,
+      "TDS": 0,
+      "ATT": 2.3,
+      "FL": 0.3,
+      "FPTS": 152.4
+    },
+    {
+      "Player": "Devante Parker",
+      "Team": "MIA",
+      "REC": 56.3,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.4,
+      "FPTS": 149.3
+    },
+    {
+      "Player": "Allen Hurns",
+      "Team": "DAL",
+      "REC": 53.7,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 146.6
+    },
+    {
+      "Player": "Kenny Golladay",
+      "Team": "DET",
+      "REC": 46.8,
+      "YDS": 5.4,
+      "TDS": 0,
+      "ATT": 0.9,
+      "FL": 0.3,
+      "FPTS": 145.2
+    },
+    {
+      "Player": "DeSean Jackson",
+      "Team": "TB",
+      "REC": 48.4,
+      "YDS": 21.8,
+      "TDS": 0,
+      "ATT": 2.9,
+      "FL": 0.3,
+      "FPTS": 142.7
+    },
+    {
+      "Player": "Ted Ginn",
+      "Team": "NO",
+      "REC": 45,
+      "YDS": 35.2,
+      "TDS": 0.1,
+      "ATT": 5.7,
+      "FL": 0.4,
+      "FPTS": 138.6
+    },
+    {
+      "Player": "Danny Amendola",
+      "Team": "MIA",
+      "REC": 54.4,
+      "YDS": 2.9,
+      "TDS": 0,
+      "ATT": 0.6,
+      "FL": 0.3,
+      "FPTS": 137.2
+    },
+    {
+      "Player": "Rishard Matthews",
+      "Team": "TEN",
+      "REC": 46.3,
+      "YDS": 0.6,
+      "TDS": 0,
+      "ATT": 0.5,
+      "FL": 0.3,
+      "FPTS": 136.4
+    },
+    {
+      "Player": "Tyler Lockett",
+      "Team": "SEA",
+      "REC": 47.3,
+      "YDS": 57.3,
+      "TDS": 0.4,
+      "ATT": 8.2,
+      "FL": 0.4,
+      "FPTS": 136.3
+    },
+    {
+      "Player": "Josh Doctson",
+      "Team": "WAS",
+      "REC": 45.2,
+      "YDS": -0.8,
+      "TDS": 0,
+      "ATT": 0.7,
+      "FL": 0.4,
+      "FPTS": 136
+    },
+    {
+      "Player": "Tyrell Williams",
+      "Team": "LAC",
+      "REC": 43.3,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.5,
+      "FPTS": 135.6
+    },
+    {
+      "Player": "Dede Westbrook",
+      "Team": "JAC",
+      "REC": 47.7,
+      "YDS": 0.7,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 132.1
+    },
+    {
+      "Player": "John Ross",
+      "Team": "CIN",
+      "REC": 46.5,
+      "YDS": 19.5,
+      "TDS": 0,
+      "ATT": 2.9,
+      "FL": 0.6,
+      "FPTS": 129.8
+    },
+    {
+      "Player": "John Brown",
+      "Team": "BAL",
+      "REC": 45.6,
+      "YDS": 10.3,
+      "TDS": 0,
+      "ATT": 1.4,
+      "FL": 0.2,
+      "FPTS": 126.6
+    },
+    {
+      "Player": "Cameron Meredith",
+      "Team": "NO",
+      "REC": 45.1,
+      "YDS": 1.2,
+      "TDS": 0,
+      "ATT": 0.2,
+      "FL": 1.1,
+      "FPTS": 125.6
+    },
+    {
+      "Player": "Paul Richardson",
+      "Team": "WAS",
+      "REC": 44.4,
+      "YDS": 2.1,
+      "TDS": 0,
+      "ATT": 0.1,
+      "FL": 0.4,
+      "FPTS": 125.1
+    },
+    {
+      "Player": "Calvin Ridley",
+      "Team": "ATL",
+      "REC": 45.3,
+      "YDS": 5,
+      "TDS": 0,
+      "ATT": 0.6,
+      "FL": 0.4,
+      "FPTS": 121.6
+    },
+    {
+      "Player": "Quincy Enunwa",
+      "Team": "NYJ",
+      "REC": 42.7,
+      "YDS": 2.2,
+      "TDS": 0,
+      "ATT": 0.3,
+      "FL": 0.3,
+      "FPTS": 121.2
+    },
+    {
+      "Player": "D.J. Moore",
+      "Team": "CAR",
+      "REC": 42.3,
+      "YDS": 5.8,
+      "TDS": 0,
+      "ATT": 0.7,
+      "FL": 0.3,
+      "FPTS": 120.9
+    },
+    {
+      "Player": "Chris Godwin",
+      "Team": "TB",
+      "REC": 43.5,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 118.8
+    },
+    {
+      "Player": "Mike Wallace",
+      "Team": "PHI",
+      "REC": 37.8,
+      "YDS": 5,
+      "TDS": 0,
+      "ATT": 0.8,
+      "FL": 0.3,
+      "FPTS": 117.6
+    },
+    {
+      "Player": "Donte Moncrief",
+      "Team": "JAC",
+      "REC": 41.1,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0.1,
+      "FL": 0.2,
+      "FPTS": 117.2
+    },
+    {
+      "Player": "Christian Kirk",
+      "Team": "ARI",
+      "REC": 45.9,
+      "YDS": 3.5,
+      "TDS": 0,
+      "ATT": 0.6,
+      "FL": 0.3,
+      "FPTS": 116.4
+    },
+    {
+      "Player": "Jermaine Kearse",
+      "Team": "NYJ",
+      "REC": 42.2,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 114.1
+    },
+    {
+      "Player": "Anthony Miller",
+      "Team": "CHI",
+      "REC": 43.3,
+      "YDS": 2.3,
+      "TDS": 0,
+      "ATT": 0.4,
+      "FL": 0.4,
+      "FPTS": 113.4
+    },
+    {
+      "Player": "Michael Gallup",
+      "Team": "DAL",
+      "REC": 41.8,
+      "YDS": 3.8,
+      "TDS": 0,
+      "ATT": 0.4,
+      "FL": 0.4,
+      "FPTS": 112.3
+    },
+    {
+      "Player": "Ryan Grant",
+      "Team": "IND",
+      "REC": 39.8,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 112.3
+    },
+    {
+      "Player": "Courtland Sutton",
+      "Team": "DEN",
+      "REC": 42.9,
+      "YDS": 2.5,
+      "TDS": 0,
+      "ATT": 0.4,
+      "FL": 0.5,
+      "FPTS": 112.3
+    },
+    {
+      "Player": "Mike Williams",
+      "Team": "LAC",
+      "REC": 39.9,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 108.8
+    },
+    {
+      "Player": "Terrance Williams",
+      "Team": "DAL",
+      "REC": 40.7,
+      "YDS": 6.8,
+      "TDS": 0,
+      "ATT": 1.4,
+      "FL": 0.4,
+      "FPTS": 107.1
+    },
+    {
+      "Player": "Geronimo Allison",
+      "Team": "GB",
+      "REC": 39.9,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.8,
+      "FPTS": 106.6
+    },
+    {
+      "Player": "James Washington",
+      "Team": "PIT",
+      "REC": 34.7,
+      "YDS": 2.8,
+      "TDS": 0,
+      "ATT": 0.4,
+      "FL": 0.4,
+      "FPTS": 104.5
+    },
+    {
+      "Player": "Cole Beasley",
+      "Team": "DAL",
+      "REC": 42.8,
+      "YDS": 0.6,
+      "TDS": 0,
+      "ATT": 0.1,
+      "FL": 0.2,
+      "FPTS": 102.1
+    },
+    {
+      "Player": "Taywan Taylor",
+      "Team": "TEN",
+      "REC": 38,
+      "YDS": 24.3,
+      "TDS": 0.1,
+      "ATT": 4.4,
+      "FL": 0.2,
+      "FPTS": 101.1
+    },
+    {
+      "Player": "Albert Wilson",
+      "Team": "MIA",
+      "REC": 39.3,
+      "YDS": 10.4,
+      "TDS": 0.1,
+      "ATT": 1.9,
+      "FL": 0.2,
+      "FPTS": 100.9
+    },
+    {
+      "Player": "Travis Benjamin",
+      "Team": "LAC",
+      "REC": 30.7,
+      "YDS": 42.5,
+      "TDS": 0.1,
+      "ATT": 6.2,
+      "FL": 0.6,
+      "FPTS": 99.7
+    },
+    {
+      "Player": "Zay Jones",
+      "Team": "BUF",
+      "REC": 34.1,
+      "YDS": 1.6,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 92.4
+    },
+    {
+      "Player": "Willie Snead",
+      "Team": "BAL",
+      "REC": 39.1,
+      "YDS": 0.8,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.5,
+      "FPTS": 91.9
+    },
+    {
+      "Player": "Trent Taylor",
+      "Team": "SF",
+      "REC": 36.8,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.8,
+      "FPTS": 91.5
+    },
+    {
+      "Player": "Seth Roberts",
+      "Team": "OAK",
+      "REC": 38.4,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.6,
+      "FPTS": 91.4
+    },
+    {
+      "Player": "Chester Rogers",
+      "Team": "IND",
+      "REC": 33.4,
+      "YDS": 8.1,
+      "TDS": 0,
+      "ATT": 2,
+      "FL": 0.2,
+      "FPTS": 90.6
+    },
+    {
+      "Player": "Brandon Marshall",
+      "Team": "SEA",
+      "REC": 33.9,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 90.2
+    },
+    {
+      "Player": "Terrelle Pryor",
+      "Team": "NYJ",
+      "REC": 33.1,
+      "YDS": 5,
+      "TDS": 0.1,
+      "ATT": 1.4,
+      "FL": 0.3,
+      "FPTS": 86.6
+    },
+    {
+      "Player": "Adam Humphries",
+      "Team": "TB",
+      "REC": 35.9,
+      "YDS": 5.8,
+      "TDS": 0,
+      "ATT": 1.1,
+      "FL": 0.5,
+      "FPTS": 86.4
+    },
+    {
+      "Player": "J.J. Nelson",
+      "Team": "ARI",
+      "REC": 28.2,
+      "YDS": 22.7,
+      "TDS": 0.1,
+      "ATT": 2.5,
+      "FL": 0.7,
+      "FPTS": 85.6
+    },
+    {
+      "Player": "Laquon Treadwell",
+      "Team": "MIN",
+      "REC": 34,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 85.1
+    },
+    {
+      "Player": "Phillip Dorsett",
+      "Team": "NE",
+      "REC": 29,
+      "YDS": 3.4,
+      "TDS": 0,
+      "ATT": 0.7,
+      "FL": 0.2,
+      "FPTS": 84.9
+    },
+    {
+      "Player": "Tyler Boyd",
+      "Team": "CIN",
+      "REC": 30.6,
+      "YDS": 5.2,
+      "TDS": 0,
+      "ATT": 0.5,
+      "FL": 0.4,
+      "FPTS": 81.7
+    },
+    {
+      "Player": "Taylor Gabriel",
+      "Team": "CHI",
+      "REC": 29.5,
+      "YDS": 15.9,
+      "TDS": 0.1,
+      "ATT": 2.8,
+      "FL": 0.2,
+      "FPTS": 80.3
+    },
+    {
+      "Player": "Antonio Callaway",
+      "Team": "CLE",
+      "REC": 30.9,
+      "YDS": 2.5,
+      "TDS": 0,
+      "ATT": 0.4,
+      "FL": 0.4,
+      "FPTS": 80
+    },
+    {
+      "Player": "Chad Williams",
+      "Team": "ARI",
+      "REC": 28.5,
+      "YDS": 19,
+      "TDS": 0,
+      "ATT": 2.2,
+      "FL": 0.3,
+      "FPTS": 77.3
+    },
+    {
+      "Player": "Tre'Quan Smith",
+      "Team": "NO",
+      "REC": 27.7,
+      "YDS": 2.7,
+      "TDS": 0,
+      "ATT": 0.4,
+      "FL": 0.3,
+      "FPTS": 76.2
+    },
+    {
+      "Player": "Brandon LaFell",
+      "Team": "OAK",
+      "REC": 25.6,
+      "YDS": 0.1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 74.1
+    },
+    {
+      "Player": "Dante Pettis",
+      "Team": "SF",
+      "REC": 26.8,
+      "YDS": 3.4,
+      "TDS": 0,
+      "ATT": 0.5,
+      "FL": 0.3,
+      "FPTS": 72.1
+    },
+    {
+      "Player": "Cody Latimer",
+      "Team": "NYG",
+      "REC": 26.7,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 71.4
+    },
+    {
+      "Player": "Cordarrelle Patterson",
+      "Team": "NE",
+      "REC": 24,
+      "YDS": 87.3,
+      "TDS": 0.5,
+      "ATT": 11.8,
+      "FL": 0.3,
+      "FPTS": 70.8
+    },
+    {
+      "Player": "Jeremy Kerley",
+      "Team": "BUF",
+      "REC": 28.6,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.7,
+      "FPTS": 69.1
+    },
+    {
+      "Player": "Jaron Brown",
+      "Team": "SEA",
+      "REC": 22.7,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 67.9
+    },
+    {
+      "Player": "Bruce Ellington",
+      "Team": "HOU",
+      "REC": 24.3,
+      "YDS": 10,
+      "TDS": 0,
+      "ATT": 1.9,
+      "FL": 0.4,
+      "FPTS": 67
+    },
+    {
+      "Player": "Torrey Smith",
+      "Team": "CAR",
+      "REC": 23.4,
+      "YDS": 0.8,
+      "TDS": 0,
+      "ATT": 0.5,
+      "FL": 0.2,
+      "FPTS": 66
+    },
+    {
+      "Player": "Chris Conley",
+      "Team": "KC",
+      "REC": 21.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 59.9
+    },
+    {
+      "Player": "D.J. Chark",
+      "Team": "JAC",
+      "REC": 21,
+      "YDS": 3,
+      "TDS": 0,
+      "ATT": 0.4,
+      "FL": 0.3,
+      "FPTS": 59.5
+    },
+    {
+      "Player": "TJ Jones",
+      "Team": "DET",
+      "REC": 21.4,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 58.3
+    },
+    {
+      "Player": "Curtis Samuel",
+      "Team": "CAR",
+      "REC": 20.8,
+      "YDS": 44.7,
+      "TDS": 0.1,
+      "ATT": 5.1,
+      "FL": 0.2,
+      "FPTS": 56.1
+    },
+    {
+      "Player": "Keke Coutee",
+      "Team": "HOU",
+      "REC": 21.1,
+      "YDS": 3.2,
+      "TDS": 0,
+      "ATT": 0.5,
+      "FL": 0.3,
+      "FPTS": 55.9
+    },
+    {
+      "Player": "Kevin White",
+      "Team": "CHI",
+      "REC": 18.6,
+      "YDS": 3.4,
+      "TDS": 0,
+      "ATT": 0.6,
+      "FL": 0.5,
+      "FPTS": 52.7
+    },
+    {
+      "Player": "Tavon Austin",
+      "Team": "DAL",
+      "REC": 17.2,
+      "YDS": 124.2,
+      "TDS": 0.7,
+      "ATT": 20.8,
+      "FL": 0.4,
+      "FPTS": 50
+    },
+    {
+      "Player": "Mack Hollins",
+      "Team": "PHI",
+      "REC": 18.3,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 49.7
+    },
+    {
+      "Player": "Justin Hardy",
+      "Team": "ATL",
+      "REC": 17.3,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0.1,
+      "FL": 0.2,
+      "FPTS": 45.9
+    },
+    {
+      "Player": "Chris Moore",
+      "Team": "BAL",
+      "REC": 16.1,
+      "YDS": 5.4,
+      "TDS": 0,
+      "ATT": 1.9,
+      "FL": 0.2,
+      "FPTS": 43.3
+    },
+    {
+      "Player": "Andre Holmes",
+      "Team": "BUF",
+      "REC": 16.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 42
+    },
+    {
+      "Player": "DaeSean Hamilton",
+      "Team": "DEN",
+      "REC": 14.4,
+      "YDS": 3.2,
+      "TDS": 0,
+      "ATT": 0.5,
+      "FL": 0.4,
+      "FPTS": 39.6
+    },
+    {
+      "Player": "Tajae Sharpe",
+      "Team": "TEN",
+      "REC": 11.7,
+      "YDS": 0.1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 37
+    },
+    {
+      "Player": "Deonte Thompson",
+      "Team": "DAL",
+      "REC": 14.8,
+      "YDS": 1.4,
+      "TDS": 0,
+      "ATT": 0.2,
+      "FL": 0.1,
+      "FPTS": 35.2
+    },
+    {
+      "Player": "J'Mon Moore",
+      "Team": "GB",
+      "REC": 12.7,
+      "YDS": 2.3,
+      "TDS": 0,
+      "ATT": 0.4,
+      "FL": 0.4,
+      "FPTS": 35
+    },
+    {
+      "Player": "Josh Reynolds",
+      "Team": "LAR",
+      "REC": 13.1,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 34.6
+    },
+    {
+      "Player": "Jakeem Grant",
+      "Team": "MIA",
+      "REC": 12,
+      "YDS": 8.4,
+      "TDS": 0,
+      "ATT": 2,
+      "FL": 0.9,
+      "FPTS": 34.2
+    },
+    {
+      "Player": "Demarcus Robinson",
+      "Team": "KC",
+      "REC": 13.7,
+      "YDS": 0.1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 34
+    },
+    {
+      "Player": "Rashard Higgins",
+      "Team": "CLE",
+      "REC": 11.4,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 33.6
+    },
+    {
+      "Player": "David Moore",
+      "Team": "SEA",
+      "REC": 12.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 33.2
+    },
+    {
+      "Player": "Eli Rogers",
+      "Team": "PIT",
+      "REC": 13.4,
+      "YDS": 0.6,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 1.2,
+      "FPTS": 31.5
+    },
+    {
+      "Player": "Sammie Coates",
+      "Team": "HOU",
+      "REC": 11.5,
+      "YDS": 2.9,
+      "TDS": 0,
+      "ATT": 1.5,
+      "FL": 0.3,
+      "FPTS": 29.4
+    },
+    {
+      "Player": "Amara Darboh",
+      "Team": "NE",
+      "REC": 12.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 27.1
+    },
+    {
+      "Player": "Jordan Lasley",
+      "Team": "BAL",
+      "REC": 10.3,
+      "YDS": 0.3,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 26.7
+    },
+    {
+      "Player": "Josh Bellamy",
+      "Team": "CHI",
+      "REC": 8.9,
+      "YDS": 2.7,
+      "TDS": 0,
+      "ATT": 0.5,
+      "FL": 0.1,
+      "FPTS": 25.2
+    },
+    {
+      "Player": "Ray-Ray McCloud",
+      "Team": "BUF",
+      "REC": 9.5,
+      "YDS": 1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 25
+    },
+    {
+      "Player": "Kendrick Bourne",
+      "Team": "SF",
+      "REC": 7.2,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 24.1
+    },
+    {
+      "Player": "Marquez Valdes-Scantling",
+      "Team": "GB",
+      "REC": 6.5,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 22.8
+    },
+    {
+      "Player": "ArDarius Stewart",
+      "Team": "NYJ",
+      "REC": 8.2,
+      "YDS": 7.2,
+      "TDS": 0,
+      "ATT": 1.2,
+      "FL": 0.1,
+      "FPTS": 21.9
+    },
+    {
+      "Player": "Equanimeous St. Brown",
+      "Team": "GB",
+      "REC": 6.3,
+      "YDS": 0.3,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 21.3
+    },
+    {
+      "Player": "Zach Pascal",
+      "Team": "IND",
+      "REC": 7.7,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 21.1
+    },
+    {
+      "Player": "Damion Ratley",
+      "Team": "CLE",
+      "REC": 6,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 20.1
+    },
+    {
+      "Player": "Chad Hansen",
+      "Team": "NE",
+      "REC": 5.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 19.9
+    },
+    {
+      "Player": "Russell Shepard",
+      "Team": "NYG",
+      "REC": 6.7,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0.2,
+      "FL": 0.2,
+      "FPTS": 19.4
+    },
+    {
+      "Player": "J.D. McKissic",
+      "Team": "SEA",
+      "REC": 4,
+      "YDS": 21,
+      "TDS": 0.2,
+      "ATT": 5,
+      "FL": 0.2,
+      "FPTS": 19.2
+    },
+    {
+      "Player": "Josh Malone",
+      "Team": "CIN",
+      "REC": 6.5,
+      "YDS": 1.9,
+      "TDS": 0,
+      "ATT": 0.7,
+      "FL": 0.2,
+      "FPTS": 18.8
+    },
+    {
+      "Player": "Darrius Heyward-Bey",
+      "Team": "PIT",
+      "REC": 6.8,
+      "YDS": 7.3,
+      "TDS": 0,
+      "ATT": 0.7,
+      "FL": 0.1,
+      "FPTS": 18.5
+    },
+    {
+      "Player": "Stacy Coley",
+      "Team": "MIN",
+      "REC": 7.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 18.4
+    },
+    {
+      "Player": "Damiere Byrd",
+      "Team": "CAR",
+      "REC": 5.9,
+      "YDS": 2,
+      "TDS": 0,
+      "ATT": 0.3,
+      "FL": 0.1,
+      "FPTS": 17.6
+    },
+    {
+      "Player": "Trevor Davis",
+      "Team": "GB",
+      "REC": 6.3,
+      "YDS": 5.4,
+      "TDS": 0,
+      "ATT": 0.7,
+      "FL": 0.5,
+      "FPTS": 17.3
+    },
+    {
+      "Player": "Auden Tate",
+      "Team": "CIN",
+      "REC": 3.5,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 15.9
+    },
+    {
+      "Player": "Pharoh Cooper",
+      "Team": "LAR",
+      "REC": 7.5,
+      "YDS": 2.8,
+      "TDS": 0,
+      "ATT": 0.2,
+      "FL": 0.7,
+      "FPTS": 15.8
+    },
+    {
+      "Player": "Marcus Johnson",
+      "Team": "IND",
+      "REC": 5.3,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 15.5
+    },
+    {
+      "Player": "Tommylee Lewis",
+      "Team": "NO",
+      "REC": 6.3,
+      "YDS": 4.1,
+      "TDS": 0,
+      "ATT": 1.1,
+      "FL": 0.4,
+      "FPTS": 15.4
+    },
+    {
+      "Player": "Jarius Wright",
+      "Team": "CAR",
+      "REC": 5.7,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 15.2
+    },
+    {
+      "Player": "Trey Quinn",
+      "Team": "WAS",
+      "REC": 4,
+      "YDS": 0.3,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 14.8
+    },
+    {
+      "Player": "Ryan Switzer",
+      "Team": "PIT",
+      "REC": 5.9,
+      "YDS": 2.9,
+      "TDS": 0,
+      "ATT": 1.1,
+      "FL": 0.5,
+      "FPTS": 14.7
+    },
+    {
+      "Player": "Maurice Harris",
+      "Team": "WAS",
+      "REC": 5.3,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 14.7
+    },
+    {
+      "Player": "Byron Marshall",
+      "Team": "WAS",
+      "REC": 5.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 14.3
+    },
+    {
+      "Player": "Richie James",
+      "Team": "SF",
+      "REC": 5.5,
+      "YDS": 1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 14.3
+    },
+    {
+      "Player": "Marlon Brown",
+      "Team": "CHI",
+      "REC": 5.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 14.1
+    },
+    {
+      "Player": "Darius Jennings",
+      "Team": "TEN",
+      "REC": 5.9,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 14
+    },
+    {
+      "Player": "Cody Core",
+      "Team": "CIN",
+      "REC": 6.6,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 14
+    },
+    {
+      "Player": "Alex Erickson",
+      "Team": "CIN",
+      "REC": 5.8,
+      "YDS": 3.5,
+      "TDS": 0,
+      "ATT": 0.7,
+      "FL": 0.4,
+      "FPTS": 13.9
+    },
+    {
+      "Player": "Justin Hunter",
+      "Team": "PIT",
+      "REC": 4.2,
+      "YDS": 0.2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 13.8
+    },
+    {
+      "Player": "Russell Gage",
+      "Team": "ATL",
+      "REC": 3,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 13.7
+    },
+    {
+      "Player": "Kaelin Clay",
+      "Team": "NYG",
+      "REC": 3,
+      "YDS": 1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 13.4
+    },
+    {
+      "Player": "Justin Watson",
+      "Team": "TB",
+      "REC": 4.3,
+      "YDS": 1.3,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 12.8
+    },
+    {
+      "Player": "Jaleel Scott",
+      "Team": "BAL",
+      "REC": 5,
+      "YDS": 0.5,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 12.7
+    },
+    {
+      "Player": "Charone Peake",
+      "Team": "NYJ",
+      "REC": 5.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 12.3
+    },
+    {
+      "Player": "Rashad Greene",
+      "Team": "JAC",
+      "REC": 5.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 12
+    },
+    {
+      "Player": "Victor Bolden Jr.",
+      "Team": "SF",
+      "REC": 4.1,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 11.7
+    },
+    {
+      "Player": "Mike Thomas",
+      "Team": "LAR",
+      "REC": 4.3,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 11.6
+    },
+    {
+      "Player": "Geremy Davis",
+      "Team": "LAC",
+      "REC": 4.1,
+      "YDS": 0.3,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 11.4
+    },
+    {
+      "Player": "Freddie Martino",
+      "Team": "TB",
+      "REC": 4.1,
+      "YDS": 0.1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 11.4
+    },
+    {
+      "Player": "Bradley Marquez",
+      "Team": "DET",
+      "REC": 5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 11.3
+    },
+    {
+      "Player": "De'Anthony Thomas",
+      "Team": "KC",
+      "REC": 5.1,
+      "YDS": 3,
+      "TDS": 0,
+      "ATT": 0.8,
+      "FL": 0,
+      "FPTS": 11.3
+    },
+    {
+      "Player": "Austin Carr",
+      "Team": "NO",
+      "REC": 5,
+      "YDS": 1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 11.3
+    },
+    {
+      "Player": "Isaiah McKenzie",
+      "Team": "DEN",
+      "REC": 2,
+      "YDS": 2,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.6,
+      "FPTS": 11.2
+    },
+    {
+      "Player": "Jaydon Mickens",
+      "Team": "JAC",
+      "REC": 3.7,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.7,
+      "FPTS": 10.7
+    },
+    {
+      "Player": "Marvin Hall",
+      "Team": "ATL",
+      "REC": 3.6,
+      "YDS": 0.3,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 10.7
+    },
+    {
+      "Player": "Michael Campanaro",
+      "Team": "TEN",
+      "REC": 4.5,
+      "YDS": 1.5,
+      "TDS": 0,
+      "ATT": 0.3,
+      "FL": 0,
+      "FPTS": 10.6
+    },
+    {
+      "Player": "Javon Wims",
+      "Team": "CHI",
+      "REC": 4,
+      "YDS": 1,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 10.5
+    },
+    {
+      "Player": "Shelton Gibson",
+      "Team": "PHI",
+      "REC": 4.5,
+      "YDS": 0.3,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 10.3
+    },
+    {
+      "Player": "Jordan Taylor",
+      "Team": "DEN",
+      "REC": 4.5,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.1,
+      "FPTS": 10.1
+    },
+    {
+      "Player": "Tanner McEvoy",
+      "Team": "MIA",
+      "REC": 3.8,
+      "YDS": -0.1,
+      "TDS": 0,
+      "ATT": 0.1,
+      "FL": 0,
+      "FPTS": 9.6
+    },
+    {
+      "Player": "Andy Jones",
+      "Team": "DET",
+      "REC": 3.8,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 9.4
+    },
+    {
+      "Player": "Matt Slater",
+      "Team": "NE",
+      "REC": 3.9,
+      "YDS": 0.4,
+      "TDS": 0,
+      "ATT": 0.1,
+      "FL": 0,
+      "FPTS": 9.3
+    },
+    {
+      "Player": "Noah Brown",
+      "Team": "DAL",
+      "REC": 3.4,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 7.8
+    },
+    {
+      "Player": "Dwayne Harris",
+      "Team": "OAK",
+      "REC": 2.7,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.4,
+      "FPTS": 7.1
+    },
+    {
+      "Player": "Andre Roberts",
+      "Team": "NYJ",
+      "REC": 3,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.6,
+      "FPTS": 5.2
+    },
+    {
+      "Player": "Marcell Ateman",
+      "Team": "OAK",
+      "REC": 0,
+      "YDS": 8,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 0.8
+    },
+    {
+      "Player": "Justin Hardee",
+      "Team": "NO",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Trent Sherfield",
+      "Team": "ARI",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 0
+    },
+    {
+      "Player": "Robert Foster",
+      "Team": "BUF",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 0
+    },
+    {
+      "Player": "Dan Arnold",
+      "Team": "NO",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 0
+    },
+    {
+      "Player": "Seth DeValve",
+      "Team": "CLE",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 0
+    },
+    {
+      "Player": "Janarion Grant",
+      "Team": "BAL",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.2,
+      "FPTS": 0
+    },
+    {
+      "Player": "DeAndre Carter",
+      "Team": "PHI",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0,
+      "FPTS": 0
+    },
+    {
+      "Player": "Brandon Zylstra",
+      "Team": "MIN",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 0
+    },
+    {
+      "Player": "Tim Patrick",
+      "Team": "DEN",
+      "REC": 0,
+      "YDS": 0,
+      "TDS": 0,
+      "ATT": 0,
+      "FL": 0.3,
+      "FPTS": 0
+    }
+  ]
+}
