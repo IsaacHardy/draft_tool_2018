@@ -68,10 +68,10 @@ class BlogIndex extends React.Component {
         <Meta site={get(this.props.data, 'site.meta')} />
         <div className="container-fluid">
           <div className="row">
-            <table className="table col">
+            <table className="m-1 table table-striped table-dark table-bordered col">
               <thead>
                 <tr>
-                  <th scope="col">Player</th>
+                  <th scope="col">All Players</th>
                   <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
@@ -86,10 +86,10 @@ class BlogIndex extends React.Component {
                 ))}
               </tbody>
             </table>
-            <table className="table col">
+            <table className="mr-1 mt-1 mb-1 table table-striped table-dark table-bordered col">
               <thead>
                 <tr>
-                  <th scope="col">Player</th>
+                  <th scope="col">Quarter Backs</th>
                   <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
@@ -108,10 +108,10 @@ class BlogIndex extends React.Component {
                 ))}
               </tbody>
             </table>
-            <table className="table col">
+            <table className="mr-1 mt-1 mb-1 table table-striped table-dark table-bordered col">
               <thead>
                 <tr>
-                  <th scope="col">Player</th>
+                  <th scope="col">Running Backs</th>
                   <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
@@ -130,10 +130,10 @@ class BlogIndex extends React.Component {
                 ))}
               </tbody>
             </table>
-            <table className="table col">
+            <table className="mr-1 mt-1 mb-1 table table-striped table-dark table-bordered col">
               <thead>
                 <tr>
-                  <th scope="col">Player</th>
+                  <th scope="col">Wide Receivers</th>
                   <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
@@ -152,10 +152,10 @@ class BlogIndex extends React.Component {
                 ))}
               </tbody>
             </table>
-            <table className="table col">
+            <table className="mr-1 mt-1 mb-1 table table-striped table-dark table-bordered col">
               <thead>
                 <tr>
-                  <th scope="col">Player</th>
+                  <th scope="col">Tight Ends</th>
                   <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>

@@ -10,7 +10,7 @@
 
 // Reassign color vars to semantic color scheme
 $theme-colors: (
-  primary: $purple,
+  primary: $red,
   secondary: $gray-600,
   success: $green,
   info: $cyan,
@@ -88,4 +88,9 @@ img {
 
 img:hover {
   animation: pulse 0.5s;
+}
+
+tr:hover {
+  cursor: pointer;
+  filter: brightness(80%);
 }
