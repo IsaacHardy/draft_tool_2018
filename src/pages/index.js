@@ -26,33 +26,40 @@ class BlogIndex extends React.Component {
   render() {
     const quarterBacks = map(
       this.state.quarterBacks,
-      ({ VORP, Player, FPTS }) => ({
-        VORP: round(FPTS - this.state.quarterBacks[18].FPTS, 2),
+      ({ VOLS, VORP, Player, FPTS }) => ({
+        VOLS: round(FPTS - this.state.quarterBacks[13].FPTS, 2),
+        VORP: round(FPTS - this.state.quarterBacks[17].FPTS, 2),
         Player,
       })
     )
     const runningBacks = map(
       this.state.runningBacks,
-      ({ VORP, Player, FPTS }) => ({
-        VORP: round(FPTS - this.state.runningBacks[35].FPTS, 2),
+      ({ VOLS, VORP, Player, FPTS }) => ({
+        VOLS: round(FPTS - this.state.runningBacks[35].FPTS, 2),
+        VORP: round(FPTS - this.state.runningBacks[50].FPTS, 2),
         Player,
       })
     )
     const wideReceivers = map(
       this.state.wideReceivers,
-      ({ VORP, Player, FPTS }) => ({
-        VORP: round(FPTS - this.state.wideReceivers[35].FPTS, 2),
+      ({ VOLS, VORP, Player, FPTS }) => ({
+        VOLS: round(FPTS - this.state.wideReceivers[35].FPTS, 2),
+        VORP: round(FPTS - this.state.wideReceivers[55].FPTS, 2),
         Player,
       })
     )
-    const tightEnds = map(this.state.tightEnds, ({ VORP, Player, FPTS }) => ({
-      VORP: round(FPTS - this.state.tightEnds[18].FPTS, 2),
-      Player,
-    }))
+    const tightEnds = map(
+      this.state.tightEnds,
+      ({ VOLS, VORP, Player, FPTS }) => ({
+        VOLS: round(FPTS - this.state.tightEnds[13].FPTS, 2),
+        VORP: round(FPTS - this.state.tightEnds[22].FPTS, 2),
+        Player,
+      })
+    )
 
     const allPlayers = orderBy(
       union(quarterBacks, runningBacks, wideReceivers, tightEnds),
-      ['VORP'],
+      ['VOLS'],
       ['desc']
     )
 
@@ -65,13 +72,15 @@ class BlogIndex extends React.Component {
               <thead>
                 <tr>
                   <th scope="col">Player</th>
+                  <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
               </thead>
               <tbody>
-                {allPlayers.map(({ Player, VORP }, i) => (
+                {allPlayers.map(({ Player, VOLS, VORP }, i) => (
                   <tr scope="row" key={i}>
                     <td>{Player}</td>
+                    <td>{VOLS}</td>
                     <td>{VORP}</td>
                   </tr>
                 ))}
@@ -81,17 +90,19 @@ class BlogIndex extends React.Component {
               <thead>
                 <tr>
                   <th scope="col">Player</th>
+                  <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
               </thead>
               <tbody>
-                {quarterBacks.map(({ Player, VORP }, i) => (
+                {quarterBacks.map(({ Player, VOLS, VORP }, i) => (
                   <tr
                     scope="row"
                     key={i}
                     onClick={() => this.draftPlayer('quarterBacks', Player)}
                   >
                     <td>{Player}</td>
+                    <td>{VOLS}</td>
                     <td>{VORP}</td>
                   </tr>
                 ))}
@@ -101,17 +112,19 @@ class BlogIndex extends React.Component {
               <thead>
                 <tr>
                   <th scope="col">Player</th>
+                  <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
               </thead>
               <tbody>
-                {runningBacks.map(({ Player, VORP }, i) => (
+                {runningBacks.map(({ Player, VOLS, VORP }, i) => (
                   <tr
                     scope="row"
                     key={i}
                     onClick={() => this.draftPlayer('runningBacks', Player)}
                   >
                     <td>{Player}</td>
+                    <td>{VOLS}</td>
                     <td>{VORP}</td>
                   </tr>
                 ))}
@@ -121,17 +134,19 @@ class BlogIndex extends React.Component {
               <thead>
                 <tr>
                   <th scope="col">Player</th>
+                  <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
               </thead>
               <tbody>
-                {wideReceivers.map(({ Player, VORP }, i) => (
+                {wideReceivers.map(({ Player, VOLS, VORP }, i) => (
                   <tr
                     scope="row"
                     key={i}
                     onClick={() => this.draftPlayer('wideReceivers', Player)}
                   >
                     <td>{Player}</td>
+                    <td>{VOLS}</td>
                     <td>{VORP}</td>
                   </tr>
                 ))}
@@ -141,17 +156,19 @@ class BlogIndex extends React.Component {
               <thead>
                 <tr>
                   <th scope="col">Player</th>
+                  <th scope="col">VOLS</th>
                   <th scope="col">VORP</th>
                 </tr>
               </thead>
               <tbody>
-                {tightEnds.map(({ Player, VORP }, i) => (
+                {tightEnds.map(({ Player, VOLS, VORP }, i) => (
                   <tr
                     scope="row"
                     key={i}
                     onClick={() => this.draftPlayer('tightEnds', Player)}
                   >
                     <td>{Player}</td>
+                    <td>{VOLS}</td>
                     <td>{VORP}</td>
                   </tr>
                 ))}
