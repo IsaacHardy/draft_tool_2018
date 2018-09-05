@@ -1,7 +1,7 @@
 import { graphql } from 'gatsby'
 import React from 'react'
 import get from 'lodash/get'
-import { forEach, remove, map, round, union, orderBy } from 'lodash'
+import { forEach, remove, map, round, union, orderBy, filter } from 'lodash'
 
 import Meta from 'components/Meta'
 import Layout from 'components/Layout'
@@ -10,88 +10,66 @@ class BlogIndex extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      quarterBacks: map(
-        get(this.props.data, 'allDataJson.edges[0].node.QBS'),
-        player => ({
-          value: round(
-            player.FPTS -
-              get(this.props.data, 'allDataJson.edges[0].node.QBS[20].FPTS'),
-            2
-          ),
-          ...player,
-        })
-      ),
-      runningBacks: map(
-        get(this.props.data, 'allDataJson.edges[0].node.RBS'),
-        player => ({
-          value: round(
-            player.FPTS -
-              get(this.props.data, 'allDataJson.edges[0].node.RBS[35].FPTS'),
-            2
-          ),
-          ...player,
-        })
-      ),
-      wideReceivers: map(
-        get(this.props.data, 'allDataJson.edges[0].node.WRS'),
-        player => ({
-          value: round(
-            player.FPTS -
-              get(this.props.data, 'allDataJson.edges[0].node.WRS[35].FPTS'),
-            2
-          ),
-          ...player,
-        })
-      ),
-      tightEnds: map(
-        get(this.props.data, 'allDataJson.edges[0].node.TES'),
-        player => ({
-          value: round(
-            player.FPTS -
-              get(this.props.data, 'allDataJson.edges[0].node.TES[18].FPTS'),
-            2
-          ),
-          ...player,
-        })
-      ),
+      quarterBacks: get(this.props.data, 'allDataJson.edges[0].node.QBS'),
+      runningBacks: get(this.props.data, 'allDataJson.edges[0].node.RBS'),
+      wideReceivers: get(this.props.data, 'allDataJson.edges[0].node.WRS'),
+      tightEnds: get(this.props.data, 'allDataJson.edges[0].node.TES'),
       allPlayers: [],
     }
   }
 
-  componentWillMount() {
-    this.setState({
-      allPlayers: orderBy(
-        union(
-          this.state.quarterBacks,
-          this.state.runningBacks,
-          this.state.wideReceivers,
-          this.state.tightEnds
-        ),
-        ['value'],
-        ['desc']
-      ),
-    })
-  }
-
   draftPlayer(position, player) {
-    this.setState({
-      [position]: remove(
-        this.state[position],
+    this.setState((state, props) => ({
+      [position]: filter(state[position], ({ Player }) => Player !== player),
+      allPlayers: filter(
+        orderBy(
+          union(
+            state.quarterBacks,
+            state.runningBacks,
+            state.wideReceivers,
+            state.tightEnds
+          ),
+          ['value'],
+          ['desc']
+        ),
         ({ Player }) => Player !== player
       ),
-      allPlayers: remove(
-        this.state.allPlayers,
-        ({ Player }) => Player !== player
-      ),
-    })
-  }
-
-  calculateBaseline(position, index) {
-    return this.state[position][index].FPTS
+    }))
   }
 
   render() {
-    console.log(this.state.allPlayers)
+    const quarterBacks = map(
+      this.state.quarterBacks,
+      ({ value, Player, FPTS }) => ({
+        value: round(FPTS - this.state.quarterBacks[18].FPTS, 2),
+        Player,
+      })
+    )
+    const runningBacks = map(
+      this.state.runningBacks,
+      ({ value, Player, FPTS }) => ({
+        value: round(FPTS - this.state.runningBacks[35].FPTS, 2),
+        Player,
+      })
+    )
+    const wideReceivers = map(
+      this.state.wideReceivers,
+      ({ value, Player, FPTS }) => ({
+        value: round(FPTS - this.state.wideReceivers[35].FPTS, 2),
+        Player,
+      })
+    )
+    const tightEnds = map(this.state.tightEnds, ({ value, Player, FPTS }) => ({
+      value: round(FPTS - this.state.tightEnds[18].FPTS, 2),
+      Player,
+    }))
+
+    const allPlayers = orderBy(
+      union(quarterBacks, runningBacks, wideReceivers, tightEnds),
+      ['value'],
+      ['desc']
+    )
+
     return (
       <Layout location={this.props.location}>
         <Meta site={get(this.props.data, 'site.meta')} />
@@ -105,7 +83,7 @@ class BlogIndex extends React.Component {
                 </tr>
               </thead>
               <tbody>
-                {this.state.allPlayers.map(({ Player, value }, i) => (
+                {allPlayers.map(({ Player, value }, i) => (
                   <tr scope="row" key={i}>
                     <td>{Player}</td>
                     <td>{value}</td>
@@ -121,7 +99,7 @@ class BlogIndex extends React.Component {
                 </tr>
               </thead>
               <tbody>
-                {this.state.quarterBacks.map(({ Player, value }, i) => (
+                {quarterBacks.map(({ Player, value }, i) => (
                   <tr
                     scope="row"
                     key={i}
@@ -141,19 +119,14 @@ class BlogIndex extends React.Component {
                 </tr>
               </thead>
               <tbody>
-                {this.state.runningBacks.map(({ Player, FPTS }, i) => (
+                {runningBacks.map(({ Player, value }, i) => (
                   <tr
                     scope="row"
                     key={i}
                     onClick={() => this.draftPlayer('runningBacks', Player)}
                   >
                     <td>{Player}</td>
-                    <td>
-                      {round(
-                        FPTS - this.calculateBaseline('runningBacks', 35),
-                        2
-                      )}
-                    </td>
+                    <td>{value}</td>
                   </tr>
                 ))}
               </tbody>
@@ -166,19 +139,14 @@ class BlogIndex extends React.Component {
                 </tr>
               </thead>
               <tbody>
-                {this.state.wideReceivers.map(({ Player, FPTS }, i) => (
+                {wideReceivers.map(({ Player, value }, i) => (
                   <tr
                     scope="row"
                     key={i}
                     onClick={() => this.draftPlayer('wideReceivers', Player)}
                   >
                     <td>{Player}</td>
-                    <td>
-                      {round(
-                        FPTS - this.calculateBaseline('wideReceivers', 35),
-                        2
-                      )}
-                    </td>
+                    <td>{value}</td>
                   </tr>
                 ))}
               </tbody>
@@ -191,16 +159,14 @@ class BlogIndex extends React.Component {
                 </tr>
               </thead>
               <tbody>
-                {this.state.tightEnds.map(({ Player, FPTS }, i) => (
+                {tightEnds.map(({ Player, value }, i) => (
                   <tr
                     scope="row"
                     key={i}
                     onClick={() => this.draftPlayer('tightEnds', Player)}
                   >
                     <td>{Player}</td>
-                    <td>
-                      {round(FPTS - this.calculateBaseline('tightEnds', 20), 2)}
-                    </td>
+                    <td>{value}</td>
                   </tr>
                 ))}
               </tbody>
