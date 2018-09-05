@@ -31,7 +31,6 @@
     "gatsby-transformer-sharp": "^2.1.1-beta.1"
   },
   "devDependencies": {
-    "@babel/plugin-syntax-object-rest-spread": "^7.0.0",
     "@fortawesome/fontawesome-svg-core": "1.2.4",
     "@fortawesome/free-brands-svg-icons": "5.3.1",
     "@fortawesome/free-solid-svg-icons": "5.3.1",
@@ -45,7 +44,6 @@
     "eslint-plugin-prettier": "2.6.2",
     "eslint-plugin-react": "7.11.1",
     "font-awesome": "4.7.0",
-    "gatsby-plugin-babel": "^1.0.0",
     "gatsby-transformer-json": "^1.0.20",
     "gh-pages": "1.2.0",
     "husky": "0.14.3",
