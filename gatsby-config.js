@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatstrap',
+    title: 'Value Based Drafting Tool 2018',
     description: 'Gatsby starter for bootstrap a blog',
     siteUrl: 'https://gatstrap.netlify.com',
     author: 'jaxx2104',
